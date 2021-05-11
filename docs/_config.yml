@@ -18,21 +18,76 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Marc Faddoul's Homepage
+email: marc.faddoul@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Marc Faddoul is an AI researcher, expert on social media recommender systems,
+  algorithmic fairness, AI alignment and the use of computational propaganda in the geopolitical sphere.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: MarcFaddoul
+# github_username:  jekyll
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+
+include: ["_pages"]
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+    feature_row:
+      - image_path: /assets/images/potluck.jpg
+        alt: "placeholder image 1"
+        title: "Placeholder 1"
+        excerpt: "This is some sample content that goes here with **Markdown** formatting."
+      - image_path: /assets/images/potluck.jpg
+        alt: "placeholder image 2"
+        title: "Placeholder 2"
+        excerpt: "This is some sample content that goes here with **Markdown** formatting."
+        url: "#test-link"
+        btn_label: "Read More"
+        btn_class: "btn--inverse"
+      - image_path: /assets/images/potluck.jpg
+        title: "Placeholder 3"
+        excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  # index
+  - scope:
+      path: "_pages/index.md"
+    values:
+      permalink: "/"
+  # news
+  - scope:
+      path: "_pages/news.md"
+    values:
+      permalink: "/news/"
+
+gallery:
+  - url: /assets/images/potluck.jpg
+    image_path: /assets/images/potluck.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/potluck.jpg
+    image_path: /assets/images/potluck.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/potluck.jpg
+    image_path: /assets/images/potluck.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

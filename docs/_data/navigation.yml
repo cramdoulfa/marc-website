@@ -1,0 +1,17 @@
+main:
+  - title: "In the News"
+    url: index.html#in-the-news
+
+  - title: "Education"
+    url: index.html#education
+
+  - title: "Talks"
+    url: index.html#talks--lectures
+
+  - title: "Experience"
+    url: index.html#professional-experience
+
+  - title: "Projects"
+    url: index.html#research--projects
+    description: "Research & Projects"
+
