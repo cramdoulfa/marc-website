@@ -68,7 +68,7 @@ feature_row:
     
   - image_path: /assets/images/tech-tent-bbc.jpeg
     alt: "placeholder image 2"
-    title: "the BBC"
+    title: "BBC"
     excerpt: "TechTent: Interview with Marc Faddoul on YouTube's new content moderation policy."
     url: "https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html"
     btn_label: "Read More"
@@ -76,7 +76,7 @@ feature_row:
     
   - image_path: /assets/images/conspiracy.jpeg
     alt: "placeholder image 2"
-    title: "the New York Times"
+    title: "The New York Times"
     excerpt: "Can YouTube quiet its conspiracy theorist?"
     url: "https://www.nytimes.com/interactive/2020/03/02/technology/youtube-conspiracy-theory.html"
     btn_label: "Read More"
@@ -84,7 +84,7 @@ feature_row:
 
   - image_path: /assets/images/fox-boost2.jpeg
     alt: "placeholder image 2"
-    title: "the New York Times"
+    title: "The New York Times"
     excerpt: "YouTube Cut Down Misinformation. Then It Boosted Fox News."
     url: "https://www.nytimes.com/2020/11/03/technology/youtube-misinformation-fox-news.html"
     btn_label: "Read More"
