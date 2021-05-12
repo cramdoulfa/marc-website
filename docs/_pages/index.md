@@ -7,7 +7,7 @@ layout: single
 author:
   name: "Marc Faddoul"
   avatar: "/assets/images/potluck.jpg"
-  bio: "AI researcher, trying to make technology more socially aware."
+  bio: "AI researcher, striving to make technology more socially aware."
   location: "France"
   links:
     - label: "Twitter"
@@ -81,7 +81,7 @@ I am a transdisciplinary researcher and technologist.
 
 I have carried research in academia (UC Berkeley), big tech (Facebook AI) and start-up environments (Bloom, Jalgos).
 
-I went from building algorithms to analysing how they impact our society. Nowdays, I focus on tracking and exposing algorithmic biases.
+I went from building algorithms to analysing how they impact our society. Nowdays, I focus on tracking and exposing algorithmic biases, with a focus on social media recommendations.
 
 [Below](index.html#in-the-news) is a selection of my works that have been featured in the media, 
 including the New York Times, O'Reilly, the Brookings Institute...
@@ -139,8 +139,8 @@ Consulting within the [Citizen Clinic](https://cltc.berkeley.edu/about-us/citize
 
 **Université Paris 2 Panthéon-Assas** - Dec 2020: Guest Lecturer, [Primavera de Philippi](https://en.wikipedia.org/wiki/Primavera_De_Filippi)'s class Digital Administrations.
 
-**US CyberCommand** - July 2020: Recommender Systems and Power Dynamics
-1h30 lecture for members of the State Deparetement and US Cyber Command, in a series hosted by [Clint Watts](https://en.wikipedia.org/wiki/Clint_Watts).
+**US State Department** - July 2020: Recommender Systems and Power Dynamics
+1h30 lecture for members of the State Department and US Cyber Command, in a series hosted by [Clint Watts](https://en.wikipedia.org/wiki/Clint_Watts).
 
 **UC Berkeley** - [GEESE](https://geesegraduates.org/about/) Panel: The Role and Impact of Auditing Algorithms
 
