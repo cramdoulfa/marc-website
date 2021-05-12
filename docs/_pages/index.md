@@ -98,7 +98,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/fox-boost2.jpeg
+  - image_path: /assets/images/tiktok-forbes.jpeg
     alt: "placeholder image 2"
     title: "Forbes"
     excerpt: "Does TikTok Have A Race Problem?"
