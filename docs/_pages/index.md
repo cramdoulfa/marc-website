@@ -10,15 +10,15 @@ author:
   bio: "AI researcher, trying to make technology more socially aware."
   location: "France"
   links:
-    - label: "Berkeley Home"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.ischool.berkeley.edu/people/marc-faddoul/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MarcFaddoul"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/marc-faddoul/"
+#    - label: "Berkeley Home"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://www.ischool.berkeley.edu/people/marc-faddoul/"
 
 # Add links to section titles (see header bar in _data/navigation.yml)
 breadcrumbs: true
