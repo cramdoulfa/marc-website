@@ -129,73 +129,74 @@ including the New York Times, O'Reilly, the Brookings Institute...
 # Research & Projects
 
 - [Tracking.Exposed](http://tracking.exposed){:target="_blank"}: Monitoring the algorithms of YouTube, Facebook, Amazon and PornHub.
-- Visiting Researcher, [Human Rights Center](https://humanrights.berkeley.edu), UC Berkeley
-- Affiliated Scholar, [Tech Policy Lab](https://citrispolicylab.org/), CITRIS and Banatao Institute
-- [Algorithmic Fairness and Opacity research group](https://afog.berkeley.edu/), School of Information, UC Berkeley
+- Visiting Researcher, [Human Rights Center](https://humanrights.berkeley.edu){:target="_blank"}, UC Berkeley
+- Affiliated Scholar, [Tech Policy Lab](https://citrispolicylab.org/){:target="_blank"}, CITRIS and Banatao Institute
+- [Algorithmic Fairness and Opacity research group](https://afog.berkeley.edu/){:target="_blank"}, School of Information, UC Berkeley
 
 ## Former Projects
 
 **An analysis of YouTube's promotion of conspiratorial content** <br>
-Lead author of an [audit](https://arxiv.org/abs/2003.03318) of YouTube's recommendation engine. 
-The study was published with [the New York Times](https://www.nytimes.com/interactive/2020/03/02/technology/youtube-conspiracy-theory.html), 
-and was [cited](https://malinowski.house.gov/sites/malinowski.house.gov/files/Letter%20to%20YouTube%20--%20Malinowski_Eshoo_final_0.pdf) by US Congress in a formal letter to the CEO's of Google and YouTube. 
-Interviews featured in [le Monde](https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html) 
+Lead author of an [audit](https://arxiv.org/abs/2003.03318){:target="_blank"} of YouTube's recommendation engine. 
+The study was published with [the New York Times](https://www.nytimes.com/interactive/2020/03/02/technology/youtube-conspiracy-theory.html){:target="_blank"}, 
+and was [cited](https://malinowski.house.gov/sites/malinowski.house.gov/files/Letter%20to%20YouTube%20--%20Malinowski_Eshoo_final_0.pdf){:target="_blank"} by US Congress in a formal letter to the CEO's of Google and YouTube. 
+Interviews featured in [le Monde](https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html){:target="_blank"} 
 and the [BBC](https://www.bbc.co.uk/sounds/play/w3csymts).<br>
 The analysis relied on a monitoring infrastructure paired with a machine learning classifier to detect conspiratorial content.
 
 **Uncovering physiognomic filter-bubbles on TikTok**
 An experiment which showed how race and appearance impact recommendability on TikTok. 
-Featured in [BuzzFeed](https://www.buzzfeednews.com/article/laurenstrapagiel/tiktok-algorithim-racial-bias), 
-[Vox](https://www.vox.com/recode/2020/2/25/21152585/tiktok-recommendations-profile-look-alike), 
-[Wired UK](https://www.wired.co.uk/article/tiktok-filter-bubbles), 
-[Forbes](https://www.forbes.com/sites/janicegassam/2020/04/14/does-tiktok-have-a-race-problem/#236b246a3260)... 
+Featured in [BuzzFeed](https://www.buzzfeednews.com/article/laurenstrapagiel/tiktok-algorithim-racial-bias){:target="_blank"}, 
+[Vox](https://www.vox.com/recode/2020/2/25/21152585/tiktok-recommendations-profile-look-alike){:target="_blank"}, 
+[Wired UK](https://www.wired.co.uk/article/tiktok-filter-bubbles){:target="_blank"}, 
+[Forbes](https://www.forbes.com/sites/janicegassam/2020/04/14/does-tiktok-have-a-race-problem/#236b246a3260){:target="_blank"}... 
 
 **AlgoTransparency**
-[AlgoTransparency](https://algotransparency.org/) is aimed at monitoring the channels most promoted by YouTube's recommendation engine to logged-out users.
+[AlgoTransparency](https://algotransparency.org/){:target="_blank"} is aimed at monitoring the channels most promoted by YouTube's recommendation engine to logged-out users.
 
 **Investigating Sniper Ad Targeting**
-A [master thesis](http://www.ischool.berkeley.edu/projects/2019/sniper-ad-targeting) project investigating whether and how an malign ads can be tailored and sent to a single individual. 
-Advised by Professor [Deirdre Mulligan](https://www.ischool.berkeley.edu/people/deirdre-mulligan). Introductory video [here](https://www.youtube.com/watch?v=bKdFlBHqhjI).
+A [master thesis](http://www.ischool.berkeley.edu/projects/2019/sniper-ad-targeting){:target="_blank"} project investigating whether and how an malign ads can be tailored and sent to a single individual. 
+Advised by Professor [Deirdre Mulligan](https://www.ischool.berkeley.edu/people/deirdre-mulligan){:target="_blank"}. Introductory video [here](https://www.youtube.com/watch?v=bKdFlBHqhjI){:target="_blank"}.
 
 **Auditing a Judicial Algorithm**
 In depth-analysis of a Pretrial Risk-Assessment Tool used in the U.S to determine whether a defendant should be placed in detention before their trial. Research [presented](https://cssh.northeastern.edu/philosophy/our-recent-past-talks/) at the Information Ethics Roundtable at Northeastern University.
 
 **Cybersecurity Consulting**
-Consulting within the [Citizen Clinic](https://cltc.berkeley.edu/about-us/citizen-clinic/) for a civil-rights NGO from central-America, to help them defend against cyber-threats and state-surveillance. 
+Consulting within the [Citizen Clinic](https://cltc.berkeley.edu/about-us/citizen-clinic/){:target="_blank"} 
+for a civil-rights NGO from central-America, to help them defend against cyber-threats and state-surveillance. 
 
 # Professional Experience
 
-**Associate Researcher - [UC Berkeley](https://www.ischool.berkeley.edu/)** (2019-2020): Development of novel algorithmic approaches to detect disinformation and borderline content, with Professor [Hany Farid](https://en.wikipedia.org/wiki/Hany_Farid).
+**Associate Researcher - [UC Berkeley](https://www.ischool.berkeley.edu/){:target="_blank"}** (2019-2020): Development of novel algorithmic approaches to detect disinformation and borderline content, with Professor [Hany Farid](https://en.wikipedia.org/wiki/Hany_Farid){:target="_blank"}.
 
-**Research Scientist - [Facebook AI](https://ai.facebook.com)** (2020): Research collaboration with UC Berkeley to improve disinformation classification algorithms.
+**Research Scientist - [Facebook AI](https://ai.facebook.com){:target="_blank"}** (2020): Research collaboration with UC Berkeley to improve disinformation classification algorithms.
 
-**Algorithm Designer - [Bloom](https://bloomsocialanalytics.com/EN/)** (2018): Design an influence ranking model for social media posts.
+**Algorithm Designer - [Bloom](https://bloomsocialanalytics.com/EN/){:target="_blank"}** (2018): Design an influence ranking model for social media posts.
 
-**Algorithm Designer - [Jalgos](https://jalgos.com/)** (2016): Design and Implementation of data-intensive algorithmic solutions for Fortune 500 companies.
+**Algorithm Designer - [Jalgos](https://jalgos.com/){:target="_blank"}** (2016): Design and Implementation of data-intensive algorithmic solutions for Fortune 500 companies.
 
 **Freelance Developer** (2013-17): Several projects, involving discrete optimisation, resource allocation and web semantics.
 
 # Talks & Lectures
 
-**Université Paris 2 Panthéon-Assas** - Dec 2020: Guest Lecturer, [Primavera de Philippi](https://en.wikipedia.org/wiki/Primavera_De_Filippi)'s class Digital Administrations.
+**Université Paris 2 Panthéon-Assas** - Dec 2020: Guest Lecturer, [Primavera de Philippi](https://en.wikipedia.org/wiki/Primavera_De_Filippi){:target="_blank"}'s class Digital Administrations.
 
 **US State Department** - July 2020: Recommender Systems and Power Dynamics
-1h30 lecture for members of the State Department and US Cyber Command, in a series hosted by [Clint Watts](https://en.wikipedia.org/wiki/Clint_Watts).
+1h30 lecture for members of the State Department and US Cyber Command, in a series hosted by [Clint Watts](https://en.wikipedia.org/wiki/Clint_Watts){:target="_blank"}.
 
-**UC Berkeley** - [GEESE](https://geesegraduates.org/about/) Panel: The Role and Impact of Auditing Algorithms
+**UC Berkeley** - [GEESE](https://geesegraduates.org/about/){:target="_blank"} Panel: The Role and Impact of Auditing Algorithms
 
-**UC Berkeley** - Fall 2019: Guest Lecturer, [Steve Weber](https://en.wikipedia.org/wiki/Steven_Weber_(professor))'s Applied Behavioral Economics
+**UC Berkeley** - Fall 2019: Guest Lecturer, [Steve Weber](https://en.wikipedia.org/wiki/Steven_Weber_(professor)){:target="_blank"}'s Applied Behavioral Economics
 
-**Northeastern University** - Spring 2019: [Information Ethics Roundtable](https://cssh.northeastern.edu/philosophy/our-recent-past-talks/), paper presentation.
+**Northeastern University** - Spring 2019: [Information Ethics Roundtable](https://cssh.northeastern.edu/philosophy/our-recent-past-talks/){:target="_blank"}, paper presentation.
 
 # Education
 
-**[UC Berkeley School of Information](https://www.ischool.berkeley.edu/) - Master of Science**<br>
+**[UC Berkeley School of Information](https://www.ischool.berkeley.edu/){:target="_blank"} - Master of Science**<br>
 Transdisciplinary perspectives on societal, legal and ethical impacts of technology on society. (MIMS program)
 
-**[Télécom Paris](https://www.telecom-paris.fr/en/home) - Diplome d'Ingénieur**<br>
+**[Télécom Paris](https://www.telecom-paris.fr/en/home){:target="_blank"} - Diplome d'Ingénieur**<br>
 Télécom is France's top Computer Science school. The engineering degree (undergrad + MS) captures a broad technical understanding of computational systems and networks.
-Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/).
+Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="_blank"}.
 
 # In the news
 
