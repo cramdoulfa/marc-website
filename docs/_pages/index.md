@@ -66,6 +66,14 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
     
+  - image_path: /assets/images/fox-nation.png
+    alt: "placeholder image 2"
+    title: "Fox Nation"
+    excerpt: "Interview with Lara Logan on her documentary *Privacy in the Digital Age*"
+    url: "https://www.foxnews.com/media/lara-logan-big-tech-privacy-sold-fourth-amendment-big-tech"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
   - image_path: /assets/images/tech-tent-bbc.jpeg
     alt: "placeholder image 2"
     title: "BBC"
