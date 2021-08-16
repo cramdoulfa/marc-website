@@ -66,7 +66,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
     
-  - image_path: /assets/images/fox-nation.png
+  - image_path: /assets/images/fox-nation.jpeg
     alt: "placeholder image 2"
     title: "Fox Nation"
     excerpt: "Interview with Lara Logan on her documentary *Privacy in the Digital Age*"
