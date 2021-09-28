@@ -129,13 +129,18 @@ I am a transdisciplinary researcher and technologist.
 
 I have carried research in academia (UC Berkeley), big tech (Facebook AI) and start-up environments (Bloom, Jalgos).
 
-I went from building algorithms to analysing how they impact our society. Nowdays, I focus on tracking and exposing algorithmic biases, with a focus on social media recommendations.
+I went from building algorithms to analysing how they impact our society. I am now investigate algorithmic biases, with a focus on social media recommender systems.
 
 [Below](index.html#in-the-news) is a selection of my works that have been featured in the media, 
-including the New York Times, O'Reilly, the Brookings Institute...
+including [the New York Times](https://www.nytimes.com/interactive/2020/03/02/technology/youtube-conspiracy-theory.html), 
+[le Monde](https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html),
+[O'Reilly](https://www.oreilly.com/library/view/97-things-about/9781492072652/ch70.html#toward_algorithmic_humility), 
+[the Brookings Institute](https://www.brookings.edu/techstream/covid-19-is-triggering-a-massive-experiment-in-algorithmic-content-moderation/)...
 
 # Research & Projects
 
+- Co-Founder and Co-President of *AI Forensics*, a non-profit dedicated to independent algorithmic auditing for public good
+- [YouChoose.ai](http://youchoose.ai) A plug-in enabling users and content creators to choose and control their recommendations on YouTube.com 
 - [Tracking.Exposed](http://tracking.exposed){:target="_blank"}: Monitoring the algorithms of YouTube, Facebook, Amazon and PornHub.
 - Visiting Researcher, [Human Rights Center](https://humanrights.berkeley.edu){:target="_blank"}, UC Berkeley
 - Affiliated Scholar, [Tech Policy Lab](https://citrispolicylab.org/){:target="_blank"}, CITRIS and Banatao Institute
@@ -186,7 +191,9 @@ for a civil-rights NGO from central-America, to help them defend against cyber-t
 
 # Talks & Lectures
 
-**Université Paris 2 Panthéon-Assas** - Dec 2020: Guest Lecturer, [Primavera de Philippi](https://en.wikipedia.org/wiki/Primavera_De_Filippi){:target="_blank"}'s class Digital Administrations.
+**Conseil National du Numérique (French Digital Council)** - Jun 2021: Part of the panel of contributing experts to the report [Itinéraire des fausses informations en ligne](https://cnnumerique.fr/nos-travaux/recits-et-contre-recits-itineraire-des-fausses-informations-en-ligne) and following debates.
+
+**Université Paris 2 Panthéon-Assas** - Dec 2020, Sept 2021: Guest Lecturer, [Primavera de Filippi](https://en.wikipedia.org/wiki/Primavera_De_Filippi){:target="_blank"}'s class Digital Administrations.
 
 **US State Department** - July 2020: Recommender Systems and Power Dynamics
 1h30 lecture for members of the State Department and US Cyber Command, in a series hosted by [Clint Watts](https://en.wikipedia.org/wiki/Clint_Watts){:target="_blank"}.
