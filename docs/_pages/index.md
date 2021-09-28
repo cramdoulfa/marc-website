@@ -140,7 +140,7 @@ including [the New York Times](https://www.nytimes.com/interactive/2020/03/02/te
 # Research & Projects
 
 - Co-Founder and Co-President of *AI Forensics*, a non-profit dedicated to independent algorithmic auditing for public good
-- [YouChoose.ai](http://youchoose.ai) A plug-in enabling users and content creators to choose and control their recommendations on YouTube.com 
+- [YouChoose.ai](http://youchoose.ai): A plug-in enabling users and content creators to choose and control their recommendations on YouTube.com 
 - [Tracking.Exposed](http://tracking.exposed){:target="_blank"}: Monitoring the algorithms of YouTube, Facebook, Amazon and PornHub.
 - Visiting Researcher, [Human Rights Center](https://humanrights.berkeley.edu){:target="_blank"}, UC Berkeley
 - Affiliated Scholar, [Tech Policy Lab](https://citrispolicylab.org/){:target="_blank"}, CITRIS and Banatao Institute
