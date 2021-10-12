@@ -145,7 +145,7 @@ including [the New York Times](https://www.nytimes.com/interactive/2020/03/02/te
 
 # Research & Projects
 
-- Co-Founder and Co-President of *[AI Forensics](https://www.aiforensics.org/){:target="_blank"}*, a non-profit dedicated to independent algorithmic auditing for public good
+- Co-Founder and Co-President of **[AI Forensics](https://www.aiforensics.org/){:target="_blank"}**, a non-profit dedicated to independent algorithmic auditing for public good
 - [YouChoose.ai](http://youchoose.ai){:target="_blank"}: A plug-in enabling users and content creators to choose and control their recommendations on YouTube.com 
 - [Tracking.Exposed](http://tracking.exposed){:target="_blank"}: Monitoring the algorithms of YouTube, Facebook, Amazon and PornHub.
 - Visiting Researcher, [Human Rights Center](https://humanrights.berkeley.edu){:target="_blank"}, UC Berkeley
@@ -199,11 +199,11 @@ for a civil-rights NGO from central-America, to help them defend against cyber-t
 
 **Harvard University** - Oct 21: Faculty working group on Social Media Recommendation Algorithms.
 
-**Università di Milano - Pre-COP 2024** - Sept 21: 'The impact of recommendation algorithms in the climate crisis' as part of a lecture series on climate and technology.  
+**Università di Milano - Pre-COP 2024** - Sept 21: *The impact of recommendation algorithms in the climate crisis* as part of a lecture series on climate and technology.  
 
-**Université Paris 2 Panthéon-Assas** - Dec 2020, Sept 2021: Guest Lecture: 'Algorithmic Fairness in digital administration'
+**Université Paris 2 Panthéon-Assas** - Dec 2020, Sept 2021: Guest Lecture: *Algorithmic Fairness in digital administration*
 
-**Conseil National du Numérique (French Digital Council)** - Jun 2021: Part of the panel of contributing experts to the report [Itinéraire des fausses informations en ligne](https://cnnumerique.fr/nos-travaux/recits-et-contre-recits-itineraire-des-fausses-informations-en-ligne){:target="_blank"} and following debates.
+**Conseil National du Numérique (French Digital Council)** - Jun 2021: Part of the panel of contributing experts to the report *[Itinéraire des fausses informations en ligne](https://cnnumerique.fr/nos-travaux/recits-et-contre-recits-itineraire-des-fausses-informations-en-ligne){:target="_blank"}* and following debates.
 
 **Université Paris 2 Panthéon-Assas** - Dec 2020, Sept 2021: Guest Lecturer, [Primavera de Filippi](https://en.wikipedia.org/wiki/Primavera_De_Filippi){:target="_blank"}'s class Digital Administrations.
 
