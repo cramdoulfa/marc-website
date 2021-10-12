@@ -197,6 +197,12 @@ for a civil-rights NGO from central-America, to help them defend against cyber-t
 
 # Talks & Lectures
 
+**Harvard University** - Oct 21: Faculty working group on Social Media Recommendation Algorithms.
+
+**Università di Milano - Pre-COP 2024** - Sept 21: 'The impact of recommendation algorithms in the climate crisis' as part of a lecture series on climate and technology.  
+
+**Université Paris 2 Panthéon-Assas** - Dec 2020, Sept 2021: Guest Lecture: 'Algorithmic Fairness in digital administration'
+
 **Conseil National du Numérique (French Digital Council)** - Jun 2021: Part of the panel of contributing experts to the report [Itinéraire des fausses informations en ligne](https://cnnumerique.fr/nos-travaux/recits-et-contre-recits-itineraire-des-fausses-informations-en-ligne){:target="_blank"} and following debates.
 
 **Université Paris 2 Panthéon-Assas** - Dec 2020, Sept 2021: Guest Lecturer, [Primavera de Filippi](https://en.wikipedia.org/wiki/Primavera_De_Filippi){:target="_blank"}'s class Digital Administrations.
