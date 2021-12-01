@@ -197,9 +197,13 @@ for a civil-rights NGO from central-America, to help them defend against cyber-t
 
 # Talks & Lectures
 
+** Webminar with EU Members of Parliment ** - Nov 21: *Alternative Recommender Systems in the DSA: how to protect free expression, create competition and empower users*
+
 **Harvard University** - Oct 21: Faculty working group on Social Media Recommendation Algorithms.
 
 **Università di Milano - Pre-COP 2024** - Sept 21: *The impact of Recommendation Algorithms in the Climate Crisis* as part of a lecture series on climate and technology.  
+
+**Université Paris Nanterre ** - Nov 21: Guest Lecture for Rémy Demichelis's class Théories de l'Information
 
 **Université Paris 2 Panthéon-Assas** - Dec 2020, Sept 2021: Guest Lecture: *Algorithmic Fairness in Digital Administrations*
 
