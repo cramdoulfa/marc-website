@@ -143,7 +143,7 @@ I am a transdisciplinary researcher and technologist.
 
 I have carried research in academia (UC Berkeley), big tech (Facebook AI) and start-up environments (Bloom, Jalgos).
 
-I went from building algorithms to analysing their biases and impact on society. I am now investigate algorithmic biases, with a focus on social media recommender systems.
+I went from building algorithms to analysing their impact on society. I now investigate algorithmic biases, with a focus on social media recommender systems.
 
 [Below](index.html#in-the-news) is a selection of my works that have been featured across the media, 
 including [the New York Times](https://www.nytimes.com/interactive/2020/03/02/technology/youtube-conspiracy-theory.html){:target="_blank"}, 
