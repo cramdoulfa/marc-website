@@ -141,7 +141,7 @@ feature_row:
 
 I am a transdisciplinary researcher and technologist. 
 
-I have carried research in academia (UC Berkeley), big tech (Facebook AI) and start-up environments (Bloom, Jalgos).
+I have carried out research in academia (UC Berkeley), big tech (Facebook AI) and start-up environments (Bloom, Jalgos).
 
 I went from building algorithms to analysing their impact on society. I now investigate algorithmic biases, with a focus on social media recommender systems.
 
