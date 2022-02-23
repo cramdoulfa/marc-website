@@ -98,6 +98,14 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
+  - image_path: /assets/images/euronews.jpeg
+    alt: "placeholder image 2"
+    title: "EuroNews"
+    excerpt: "How white saviour 'voluntourism' gets you famous on TikTok"
+    url: "https://www.euronews.com/travel/2022/02/21/how-white-saviour-voluntourism-gets-you-famous-on-tiktok"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
   - image_path: /assets/images/fox-boost2.jpeg
     alt: "placeholder image 2"
     title: "The New York Times"
