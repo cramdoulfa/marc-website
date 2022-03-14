@@ -78,7 +78,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "BBC"
     excerpt: "TechTent: Interview with Marc Faddoul on YouTube's new content moderation policy."
-    url: "https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html"
+    url: "https://www.bbc.co.uk/programmes/w3csymts"
     btn_label: "Read More"
     btn_class: "btn--inverse"
     
