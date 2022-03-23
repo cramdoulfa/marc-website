@@ -42,6 +42,88 @@ classes:
  
  
 feature_row:
+
+  - image_path: /assets/images/figaro-tiktok.jpeg
+    alt: "placeholder image 2"
+    title: "le Figaro"
+    excerpt: "Ukraine: les influenceurs, petits soldats de la guerre informationnelle"
+    url: "https://www.lefigaro.fr/medias/ukraine-les-influenceurs-petits-soldats-de-la-guerre-informationnelle-20220320"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+
+  - image_path: /assets/images/wsj-tiktok.png
+    alt: "placeholder image 2"
+    title: "Wall Street Journal"
+    excerpt: "TikTok’s Pullback in Russia Leaves More Space for Pro-Kremlin Propaganda"
+    url: "https://www.wsj.com/articles/tiktoks-pullback-in-russia-leaves-more-space-for-pro-kremlin-propaganda-11647370257"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/financial_times.jpg
+    alt: "placeholder image 2"
+    title: "Financial Times"
+    excerpt: "The truth about war is messy — just read Wikipedia"
+    url: "https://www.ft.com/content/b2a9c0a0-1f6b-4a25-9cd2-42f17b2f5a51"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/mozilla_tiktok.jpeg
+    alt: "placeholder image 2"
+    title: "Mozilla Foundation"
+    excerpt: "A New Way to Keep TikTok Accountable"
+    url: "https://foundation.mozilla.org/en/blog/a-new-way-to-keep-tiktok-accountable/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/guardian_tiktok.jpeg
+    alt: "placeholder image 2"
+    title: "The Guardian"
+    excerpt: "TikTok was ‘just a dancing app’. Then the Ukraine war started"
+    url: "https://www.theguardian.com/technology/2022/mar/19/tiktok-ukraine-russia-war-disinformation"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/wired_italia.jpeg
+    alt: "placeholder image 2"
+    title: "Wired Italia"
+    excerpt: "In Russia TikTok ha fatto un repulisti, lasciando spazio alla propaganda"
+    url: "https://www.wired.it/article/russia-tiktok-propaganda/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/lemonde_tiktok.jpeg
+    alt: "placeholder image 2"
+    title: "Le Monde"
+    excerpt: "TikTok coupe la Russie du reste du monde en bloquant les contenus étrangers"
+    url: "https://www.lemonde.fr/pixels/article/2022/03/10/tiktok-coupe-la-russie-du-reste-du-monde-en-bloquant-les-contenus-etrangers_6116934_4408996.html"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/logo-lemonde.jpeg
+    alt: "placeholder image 2"
+    title: "Le Monde"
+    excerpt: "TikTok accusé d’offrir un «passe-droit» aux propagandistes du Kremlin"
+    url: "https://www.lemonde.fr/pixels/article/2022/03/15/tiktok-accuse-d-offrir-un-passe-droit-aux-propagandistes-du-kremlin_6117655_4408996.html"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/lemonde_covid.jpeg
+    alt: "placeholder image 2"
+    title: "Le Monde"
+    excerpt: "Facebook, YouTube… les grandes plates-formes d’Internet face au défi du coronavirus"
+    url: "https://www.lemonde.fr/pixels/article/2020/03/13/facebook-youtube-les-grandes-plates-formes-face-au-defi-du-coronavirus_6032989_4408996.html"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/francetvinfo.jpeg
+    alt: "placeholder image 2"
+    title: "FranceTV Info"
+    excerpt: "Tiktok fait-il passer ses intérêts commerciaux avant les intérêts politiques?"
+    url: "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/vrai-ou-fake-en-russie-tiktokfait-il-passer-ses-interets-commerciaux-avant-les-interets-politiques_5036681.html"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
   - image_path: /assets/images/lemonde.jpeg
     alt: "placeholder image 2"
     title: "Le Monde"
@@ -49,7 +131,17 @@ feature_row:
     url: "https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-    
+
+
+  - image_path: /assets/images/lemonde.jpeg
+    alt: "placeholder image 2"
+    title: "Le Monde"
+    excerpt: "Facebook, YouTube… les grandes plates-formes d’Internet face au défi du coronavirus"
+    url: "https://www.lemonde.fr/pixels/article/2020/03/13/facebook-youtube-les-grandes-plates-formes-face-au-defi-du-coronavirus_6032989_4408996.html"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+
   - image_path: /assets/images/brookings-covid.jpeg
     alt: "placeholder image 2"
     title: "Brookings Institution"
