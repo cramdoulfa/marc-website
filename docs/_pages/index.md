@@ -6,8 +6,8 @@ layout: single
 
 author:
   name: "Marc Faddoul"
-  avatar: "/assets/images/potluck.jpg"
-  bio: "AI researcher, striving to make technology more socially aware."
+  avatar: "/assets/images/headshot-berlin-square.jpeg"
+  bio: "Co-Director, Tracking Exposed<br><br>Striving to make technology more socially aware."
   location: "France"
   links:
     - label: "Twitter"
@@ -239,7 +239,13 @@ feature_row:
  TODO make the masterhead sticky
 --->
 
-I am a transdisciplinary researcher and technologist. 
+Transdisciplinary technologist, expert on recommender systems and algorithmic audit
+
+Currently **Co-Director at [Tracking Exposed](https://tracking.exposed)**
+
+Tracking Exposed is a European non-profit organization defending digital rights through algorithmic investigations.<br>
+
+## Background
 
 I have carried out research in academia (UC Berkeley), big tech (Facebook AI) and start-up environments (Bloom, Jalgos).
 
@@ -251,16 +257,17 @@ including [the New York Times](https://www.nytimes.com/interactive/2020/03/02/te
 [O'Reilly](https://www.oreilly.com/library/view/97-things-about/9781492072652/ch70.html#toward_algorithmic_humility){:target="_blank"}, 
 [the Brookings Institute](https://www.brookings.edu/techstream/covid-19-is-triggering-a-massive-experiment-in-algorithmic-content-moderation/){:target="_blank"}...
 
-# Research & Projects
+**Affiliations:**
+- Mozilla Fellow, [Mozilla Technology Fund](https://foundation.mozilla.org/en/blog/a-new-way-to-keep-tiktok-accountable/) (2022)
+- Affiliated Scholar, [Tech Policy Lab](https://citrispolicylab.org/){:target="_blank"}, CITRIS and Banatao Institute (2020-)
+- [Algorithmic Fairness and Opacity research group](https://afog.berkeley.edu/){:target="_blank"}, School of Information, UC Berkeley (2018-)
+- Visiting Researcher, [Human Rights Center](https://humanrights.berkeley.edu){:target="_blank"}, UC Berkeley (2020)
 
-- Co-Founder and Co-President of **[AI Forensics](https://www.aiforensics.org/){:target="_blank"}**, a non-profit dedicated to independent algorithmic auditing for public good
-- [YouChoose.ai](http://youchoose.ai){:target="_blank"}: A plug-in enabling users and content creators to choose and control their recommendations on YouTube.com 
-- [Tracking.Exposed](http://tracking.exposed){:target="_blank"}: Monitoring the algorithms of YouTube, Facebook, Amazon and PornHub.
-- Visiting Researcher, [Human Rights Center](https://humanrights.berkeley.edu){:target="_blank"}, UC Berkeley
-- Affiliated Scholar, [Tech Policy Lab](https://citrispolicylab.org/){:target="_blank"}, CITRIS and Banatao Institute
-- [Algorithmic Fairness and Opacity research group](https://afog.berkeley.edu/){:target="_blank"}, School of Information, UC Berkeley
+## Projects
 
-## Former Projects
+**YouChoose.ai: Alternative recommender systems for YouTube**<br>
+[YouChoose.ai](http://youchoose.ai){:target="_blank"} is plug-in enabling users and content creators to choose and control their recommendations on YouTube.com. The current release (beta) allows content creators to choose the recommendations on their own content.
+The long term goal for YouChoose is to be a platform for recommender systems, empowering users to pick an accountable algorithm, aligned with their own interests.
 
 **An analysis of YouTube's promotion of conspiratorial content** <br>
 Lead author of an [audit](https://arxiv.org/abs/2003.03318){:target="_blank"} of YouTube's recommendation engine. 
@@ -291,7 +298,7 @@ In depth-analysis of a Pretrial Risk-Assessment Tool used in the U.S to determin
 Consulting within the [Citizen Clinic](https://cltc.berkeley.edu/about-us/citizen-clinic/){:target="_blank"} 
 for a civil-rights NGO from central-America, to help them defend against cyber-threats and state-surveillance. 
 
-# Professional Experience
+## Professional Experience
 
 **Associate Researcher - [UC Berkeley](https://www.ischool.berkeley.edu/){:target="_blank"}** (2019-2020): Development of novel algorithmic approaches to detect disinformation and borderline content, with Professor [Hany Farid](https://en.wikipedia.org/wiki/Hany_Farid){:target="_blank"}.
 
@@ -303,15 +310,15 @@ for a civil-rights NGO from central-America, to help them defend against cyber-t
 
 **Freelance Developer** (2013-17): Several projects, involving discrete optimisation, resource allocation and web semantics.
 
-# Talks & Lectures
+## Talks & Lectures
 
-** Webminar with EU Members of Parliment ** - Nov 21: *Alternative Recommender Systems in the DSA: how to protect free expression, create competition and empower users*
+**Webminar with EU Members of Parliment** - Nov 21: *Alternative Recommender Systems in the DSA: how to protect free expression, create competition and empower users*
 
 **Harvard University** - Oct 21: Faculty working group on Social Media Recommendation Algorithms.
 
 **Università di Milano - Pre-COP 2024** - Sept 21: *The impact of Recommendation Algorithms in the Climate Crisis* as part of a lecture series on climate and technology.  
 
-**Université Paris Nanterre ** - Nov 21: Guest Lecture for Rémy Demichelis's class Théories de l'Information
+**Université Paris Nanterre** - Nov 21: Guest Lecture for Rémy Demichelis's class Théories de l'Information
 
 **Université Paris 2 Panthéon-Assas** - Dec 2020, Sept 2021: Guest Lecture: *Algorithmic Fairness in Digital Administrations*
 
@@ -328,7 +335,7 @@ for a civil-rights NGO from central-America, to help them defend against cyber-t
 
 **Northeastern University** - Spring 2019: [Information Ethics Roundtable](https://cssh.northeastern.edu/philosophy/our-recent-past-talks/){:target="_blank"}, paper presentation.
 
-# Education
+## Education
 
 **[UC Berkeley School of Information](https://www.ischool.berkeley.edu/){:target="_blank"} - Master of Science**<br>
 Transdisciplinary perspectives on societal, legal and ethical impacts of technology on society. (MIMS program)
@@ -337,6 +344,6 @@ Transdisciplinary perspectives on societal, legal and ethical impacts of technol
 Télécom is France's top Computer Science school. The engineering degree (undergrad + MS) captures a broad technical understanding of computational systems and networks.
 Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="_blank"}.
 
-# In the news
+## In the news
 
 {% include feature_row %}
