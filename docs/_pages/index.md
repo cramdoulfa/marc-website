@@ -245,7 +245,7 @@ feature_row:
 Marc Faddoul is a transdisciplinary technologist, expert on recommender systems and algorithmic audit.<br><br>
 He carried out research on algorithmic systems in academia (UC Berkeley), big tech (Facebook AI) and start-up environments (Bloom, Jalgos).
 He went from building algorithms to analysing their impact on society, and now strives to defend the interests and digital rights of civil society.<br><br>
-Marc’s work has been cited by the US Congress, and he is [regularly called upon](#in-the-news)
+He is part of experts committees for the French Digital Council (CNNum) and media regulator (ARCOM), and is [regularly called upon](#in-the-news)
 to comment on AI and society by WSJ, The Guardian, Le Monde and more.
 
 ---
