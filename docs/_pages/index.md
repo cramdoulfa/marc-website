@@ -16,7 +16,7 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/marc-faddoul/"
-#    - label: "Berkeley Home"
+#    - label: "UC Berkeley Profile"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://www.ischool.berkeley.edu/people/marc-faddoul/"
 
@@ -24,9 +24,12 @@ author:
 breadcrumbs: true
 
 sidebar:
-  - title: "Education"
-    text: "School of Information, UC Berkeley<br><br>
-           Telecom Paris, Institut Polytechnique de Paris"
+  - title: "Site Menu"
+    text: "[Background](#background)<br>
+           [Projects](#selected-projects-and-investigations)<br>
+           [Talks](#talks--lectures)<br>
+           [In the News](#in-the-news)<br>"
+
 
 classes:
   - wide
@@ -239,31 +242,75 @@ feature_row:
  TODO make the masterhead sticky
 --->
 
-Transdisciplinary technologist, expert on recommender systems and algorithmic audit
+Marc Faddoul is a transdisciplinary technologist, expert on recommender systems and algorithmic audit.<br><br>
+He carried out research on algorithmic systems in academia (UC Berkeley), big tech (Facebook AI) and start-up environments (Bloom, Jalgos).
+He went from building algorithms to analysing their impact on society, and now strives to defend the interests and digital rights of civil society.<br><br>
+Marc’s work has been cited by the US Congress, and he is [regularly called upon](#in-the-news)
+to comment on AI and society by WSJ, The Guardian, Le Monde and more.
 
-Currently **Co-Director at [Tracking Exposed](https://tracking.exposed)**
+---
 
-Tracking Exposed is a European non-profit organization defending digital rights through algorithmic investigations.<br>
+Currently **Co-Director at Tracking Exposed**
+
+[Tracking Exposed](https://tracking.exposed){:target="_blank"} is a European non-profit organization defending digital rights through algorithmic investigations.<br>
+
+---
+
+**Site Menu:<br>**
+- [Background](#background): Education and Professional Experiences<br>
+- [Projects](#selected--projects-and-investigations): Selected Research and Projects<br>
+- [Talks](#talks--lectures): Conferences, Lectures and Interviews<br>
+- [In the News](#in-the-news): Media Coverage<br>
+
+---
 
 ## Background
 
-I have carried out research in academia (UC Berkeley), big tech (Facebook AI) and start-up environments (Bloom, Jalgos).
 
-I went from building algorithms to analysing their impact on society. I now investigate algorithmic biases, with a focus on social media recommender systems.
+### Education
 
-[Below](index.html#in-the-news) is a selection of my works that have been featured across the media, 
-including [the New York Times](https://www.nytimes.com/interactive/2020/03/02/technology/youtube-conspiracy-theory.html){:target="_blank"}, 
-[le Monde](https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html){:target="_blank"},
-[O'Reilly](https://www.oreilly.com/library/view/97-things-about/9781492072652/ch70.html#toward_algorithmic_humility){:target="_blank"}, 
-[the Brookings Institute](https://www.brookings.edu/techstream/covid-19-is-triggering-a-massive-experiment-in-algorithmic-content-moderation/){:target="_blank"}...
+**[UC Berkeley School of Information](https://www.ischool.berkeley.edu/){:target="_blank"} - Master of Science**<br>
+Transdisciplinary perspectives on societal, legal and ethical impacts of technology on society. (MIMS program)
 
-**Affiliations:**
-- Mozilla Fellow, [Mozilla Technology Fund](https://foundation.mozilla.org/en/blog/a-new-way-to-keep-tiktok-accountable/) (2022)
+**[Télécom Paris, Institut Polytechnique de Paris](https://www.telecom-paris.fr/en/home){:target="_blank"} - Diplome d'Ingénieur**<br>
+Télécom is France's top Computer Science school. The engineering degree (undergrad + MS) captures a broad technical understanding of computational systems and networks.
+Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="_blank"}.
+
+
+### Affiliations
+
+- Mozilla Fellow, [Mozilla Technology Fund](https://foundation.mozilla.org/en/blog/a-new-way-to-keep-tiktok-accountable/){:target="_blank"} (2022)
 - Affiliated Scholar, [Tech Policy Lab](https://citrispolicylab.org/){:target="_blank"}, CITRIS and Banatao Institute (2020-)
 - [Algorithmic Fairness and Opacity research group](https://afog.berkeley.edu/){:target="_blank"}, School of Information, UC Berkeley (2018-)
-- Visiting Researcher, [Human Rights Center](https://humanrights.berkeley.edu){:target="_blank"}, UC Berkeley (2020)
+- Visiting Researcher, [Human Rights Center](https://humanrights.berkeley.edu){:target="_blank"}, UC Berkeley (2019-2021)
 
-## Projects
+
+### Professional Experiences
+
+**Co-Director - [Tracking Exposed](https://tracking.exposed/)** (2021-): Leading the development, strategy and funding of the organization.
+
+**Co-Founder & Co-President - [AI Forensics](https://aiforensics.org)**: AI Forensics is the non-profit organization supporting Tracking Exposed
+
+**Associate Researcher - [UC Berkeley](https://www.ischool.berkeley.edu/){:target="_blank"}** (2019-2020): Development of novel algorithmic approaches to detect disinformation and borderline content, with Professor [Hany Farid](https://en.wikipedia.org/wiki/Hany_Farid){:target="_blank"}.
+
+**Research Scientist - [Facebook AI](https://ai.facebook.com/){:target="_blank"}** (2020): Research collaboration with UC Berkeley to improve disinformation classification algorithms.
+
+**Algorithm Designer - [Bloom](https://bloomsocialanalytics.com/EN/){:target="_blank"}** (2018): Design an influence ranking model for social media posts.
+
+**Algorithm Designer - [Jalgos](https://jalgos.com/){:target="_blank"}** (2016): Design and Implementation of data-intensive algorithmic solutions for Fortune 500 companies.
+
+**Freelance Developer** (2013-17): Several projects, involving discrete optimisation, resource allocation and web semantics.
+
+
+## Selected Projects and Investigations
+
+**Investigating TikTok's policy response to the Ukraine war in Russia**<br>
+We monitored the evolution of TikTok's policy in Russia as the war in Ukraine unfolded. We [uncovered](https://twitter.com/trackingexposed/status/1503734082840182788)
+that TikTok blocked access to international content for its Russian users without declaring it.
+In a [follow-up investigation](https://www.washingtonpost.com/technology/2022/04/13/tiktok-russia-censorship-propaganda-tracking-exposed/),
+we exposed how loopholes in TikTok's upload ban policy led the platform to be flooded by pro-Kremlin propaganda.
+Our report lead [6 US Senators to summon](https://www.scribd.com/document/578733258/FINAL-Letter-to-TikTok-Re-Ukraine-War-Russia-Disinformation-6-17-2022)
+TikTok's CEO for explanations.
 
 **YouChoose.ai: Alternative recommender systems for YouTube**<br>
 [YouChoose.ai](http://youchoose.ai){:target="_blank"} is plug-in enabling users and content creators to choose and control their recommendations on YouTube.com. The current release (beta) allows content creators to choose the recommendations on their own content.
@@ -272,7 +319,7 @@ The long term goal for YouChoose is to be a platform for recommender systems, em
 **An analysis of YouTube's promotion of conspiratorial content** <br>
 Lead author of an [audit](https://arxiv.org/abs/2003.03318){:target="_blank"} of YouTube's recommendation engine. 
 The study was published with [the New York Times](https://www.nytimes.com/interactive/2020/03/02/technology/youtube-conspiracy-theory.html){:target="_blank"}, 
-and was [cited](https://malinowski.house.gov/sites/malinowski.house.gov/files/Letter%20to%20YouTube%20--%20Malinowski_Eshoo_final_0.pdf){:target="_blank"} by US Congress in a formal letter to the CEO's of Google and YouTube. 
+and was [cited](https://docs.house.gov/meetings/IF/IF16/20210325/111407/HHRG-117-IF16-20210325-SD027.pdf){:target="_blank"} by US Congress in a formal letter to the CEO's of Google and YouTube.
 Interviews featured in [le Monde](https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html){:target="_blank"} 
 and the [BBC](https://www.bbc.co.uk/sounds/play/w3csymts).<br>
 The analysis relied on a monitoring infrastructure paired with a machine learning classifier to detect conspiratorial content.
@@ -298,19 +345,11 @@ In depth-analysis of a Pretrial Risk-Assessment Tool used in the U.S to determin
 Consulting within the [Citizen Clinic](https://cltc.berkeley.edu/about-us/citizen-clinic/){:target="_blank"} 
 for a civil-rights NGO from central-America, to help them defend against cyber-threats and state-surveillance. 
 
-## Professional Experience
-
-**Associate Researcher - [UC Berkeley](https://www.ischool.berkeley.edu/){:target="_blank"}** (2019-2020): Development of novel algorithmic approaches to detect disinformation and borderline content, with Professor [Hany Farid](https://en.wikipedia.org/wiki/Hany_Farid){:target="_blank"}.
-
-**Research Scientist - [Facebook AI](https://ai.facebook.com/){:target="_blank"}** (2020): Research collaboration with UC Berkeley to improve disinformation classification algorithms.
-
-**Algorithm Designer - [Bloom](https://bloomsocialanalytics.com/EN/){:target="_blank"}** (2018): Design an influence ranking model for social media posts.
-
-**Algorithm Designer - [Jalgos](https://jalgos.com/){:target="_blank"}** (2016): Design and Implementation of data-intensive algorithmic solutions for Fortune 500 companies.
-
-**Freelance Developer** (2013-17): Several projects, involving discrete optimisation, resource allocation and web semantics.
-
 ## Talks & Lectures
+
+**ARCOM** - May 22: *Amplification and Demotion of election related content on social media*. Presentation of results to the French media regulator
+
+**Mozilla Festival** - Apr 22: Gain control back on your YouTube recommendations
 
 **Webminar with EU Members of Parliment** - Nov 21: *Alternative Recommender Systems in the DSA: how to protect free expression, create competition and empower users*
 
@@ -318,7 +357,7 @@ for a civil-rights NGO from central-America, to help them defend against cyber-t
 
 **Università di Milano - Pre-COP 2024** - Sept 21: *The impact of Recommendation Algorithms in the Climate Crisis* as part of a lecture series on climate and technology.  
 
-**Université Paris Nanterre** - Nov 21: Guest Lecture for Rémy Demichelis's class Théories de l'Information
+**Université Paris Nanterre** - Nov 21: Guest Lecture for Rémy Demichelis's class *Théories de l'information*
 
 **Université Paris 2 Panthéon-Assas** - Dec 2020, Sept 2021: Guest Lecture: *Algorithmic Fairness in Digital Administrations*
 
@@ -335,15 +374,6 @@ for a civil-rights NGO from central-America, to help them defend against cyber-t
 
 **Northeastern University** - Spring 2019: [Information Ethics Roundtable](https://cssh.northeastern.edu/philosophy/our-recent-past-talks/){:target="_blank"}, paper presentation.
 
-## Education
-
-**[UC Berkeley School of Information](https://www.ischool.berkeley.edu/){:target="_blank"} - Master of Science**<br>
-Transdisciplinary perspectives on societal, legal and ethical impacts of technology on society. (MIMS program)
-
-**[Télécom Paris](https://www.telecom-paris.fr/en/home){:target="_blank"} - Diplome d'Ingénieur**<br>
-Télécom is France's top Computer Science school. The engineering degree (undergrad + MS) captures a broad technical understanding of computational systems and networks.
-Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="_blank"}.
-
-## In the news
+## In the News
 
 {% include feature_row %}
