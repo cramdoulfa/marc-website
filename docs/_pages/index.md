@@ -46,6 +46,14 @@ classes:
  
 feature_row:
 
+  - image_path: /assets/images/msnbc-midterm.png
+    alt: "placeholder image 2"
+    title: "MSNBC"
+    excerpt: "TikTok's disinformation policy ahead of the 2022 US midterms elections"
+    url: "https://www.msnbc.com/cross-connection/watch/experts-warn-tiktok-rife-with-election-misinformation-146631237813"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
   - image_path: /assets/images/figaro-tiktok.jpeg
     alt: "placeholder image 2"
     title: "le Figaro"
