@@ -7,7 +7,7 @@ layout: single
 author:
   name: "Marc Faddoul"
   avatar: "/assets/images/headshot-berlin-square.jpeg"
-  bio: "Co-Director, Tracking Exposed<br><br>Striving to make technology more socially aware."
+  bio: "Director, AI Forensics<br><br>Striving to make technology more socially aware."
   location: "France"
   links:
     - label: "Twitter"
@@ -258,9 +258,9 @@ to comment on AI and society by WSJ, The Guardian, Le Monde and more.
 
 ---
 
-Currently **Co-Director at Tracking Exposed**
+Currently **Director at AI Forensics**
 
-[Tracking Exposed](https://tracking.exposed){:target="_blank"} is a European non-profit organization defending digital rights through algorithmic investigations.<br>
+[AI Forensics](https://aiforensics.org){:target="_blank"} is a European non-profit organization defending digital rights through algorithmic investigations. (previously known as [Tracking Exposed](https://tracking.exposed){:target="_blank"})<br>
 
 ---
 
