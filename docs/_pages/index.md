@@ -287,7 +287,7 @@ Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="
 
 ### Affiliations
 
-- Mozilla Fellow, [Mozilla Technology Fund](https://foundation.mozilla.org/en/blog/a-new-way-to-keep-tiktok-accountable/){:target="_blank"} (2022)
+- Mozilla Fellow, [Mozilla Technology Fund](https://foundation.mozilla.org/en/blog/a-new-way-to-keep-tiktok-accountable/){:target="_blank"} ([2022](https://foundation.mozilla.org/fr/blog/one-year-of-holding-tiktok-accountable/){:target="_blank"} & 2023)
 - Affiliated Scholar, [Tech Policy Lab](https://citrispolicylab.org/){:target="_blank"}, CITRIS and Banatao Institute (2020-)
 - [Algorithmic Fairness and Opacity research group](https://afog.berkeley.edu/){:target="_blank"}, School of Information, UC Berkeley (2018-)
 - Visiting Researcher, [Human Rights Center](https://humanrights.berkeley.edu){:target="_blank"}, UC Berkeley (2019-2021)
@@ -297,7 +297,7 @@ Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="
 
 **Co-Director - [Tracking Exposed](https://tracking.exposed/)** (2021-): Leading the development, strategy and funding of the organization.
 
-**Co-Founder & Co-President - [AI Forensics](https://aiforensics.org)**: AI Forensics is the non-profit organization supporting Tracking Exposed
+**Co-Founder & Director - [AI Forensics](https://aiforensics.org)** (2021-): AI Forensics is the non-profit organization supporting Tracking Exposed
 
 **Associate Researcher - [UC Berkeley](https://www.ischool.berkeley.edu/){:target="_blank"}** (2019-2020): Development of novel algorithmic approaches to detect disinformation and borderline content, with Professor [Hany Farid](https://en.wikipedia.org/wiki/Hany_Farid){:target="_blank"}.
 
@@ -354,6 +354,11 @@ Consulting within the [Citizen Clinic](https://cltc.berkeley.edu/about-us/citize
 for a civil-rights NGO from central-America, to help them defend against cyber-threats and state-surveillance. 
 
 ## Talks & Lectures
+<!---
+Senat
+ARCOM journée d'etudes
+EU Disinfo conference
+--->
 
 **ARCOM** - May 22: *Amplification and Demotion of election related content on social media*. Presentation of results to the French media regulator
 
