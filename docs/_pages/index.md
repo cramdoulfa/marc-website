@@ -27,8 +27,8 @@ sidebar:
   - title: "Site Menu"
     text: "[Background](#education)<br>
            [In the News](#selected-news-featuring)<br>
-           [Talks](#talks--lectures)<br>"
-           [Projects](#selected-projects-and-investigations)<br>
+           [Talks](#talks--lectures)<br>
+           [Projects](#selected-projects-and-investigations)<br>"
 
 
 classes:
