@@ -25,10 +25,10 @@ breadcrumbs: true
 
 sidebar:
   - title: "Site Menu"
-    text: "[Background](#background)<br>
+    text: "[Background](#education)<br>
+           [In the News](#selected-news-featuring)<br>
+           [Talks](#talks--lectures)<br>"
            [Projects](#selected-projects-and-investigations)<br>
-           [Talks](#talks--lectures)<br>
-           [In the News](#in-the-news)<br>"
 
 
 classes:
@@ -42,9 +42,59 @@ classes:
 # overlay_color: "#333"
 # overlay_filter: 0.5
 # show_overlay_excerpt: true
- 
+
  
 feature_row:
+
+
+  - image_path: /assets/images/senat.jpeg
+    alt: "placeholder image 2"
+    title: "French Senat"
+    excerpt: "Marc Faddoul's testimony on the special commission on TikTok"
+    url: "http://videos.senat.fr/video.3332178_640f214f9aa6b.marc-faddoul-decrypte-l-algorithme-de-tiktok"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/forbes-video-tiktok.jpeg
+    alt: "placeholder image 2"
+    title: "Forbes"
+    excerpt: "Documentary: Bill To Ban TikTok: Why That Won't Fix Data Privacy"
+    url: "https://www.youtube.com/watch?v=eRSpZ4SD9Ns&t=307s"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/YUA.jpeg
+    alt: "placeholder image 2"
+    title: "Center for Humane Technology"
+    excerpt: "Podcast: TikTok's Transparency Problem with Marc Faddoul and Tristan Harris"
+    url: "https://www.humanetech.com/podcast/tiktoks-transparency-problem-with-marc-faddoul"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/guardian-tiktok-standard.jpeg
+    alt: "placeholder image 2"
+    title: "The Guardian"
+    excerpt: "Series: TikTok has become a global giant. The US is threatening to rein it in"
+    url: "https://www.theguardian.com/technology/2022/oct/30/tiktok-regulation-data-privacy-china"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/guardian-tiktok-standard.jpeg
+    alt: "placeholder image 2"
+    title: "The Guardian"
+    excerpt: "Series: What TikTok does to your mental health: ‘It’s embarrassing we know so little’"
+    url: "https://www.theguardian.com/technology/2022/oct/30/tiktok-mental-health-social-media"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/guardian-tiktok-standard.jpeg
+    alt: "placeholder image 2"
+    title: "The Guardian"
+    excerpt: "Series: Why the app with 1bn users faces a fight for its existence"
+    url: "https://www.theguardian.com/technology/2023/mar/31/tiktok-why-the-app-with-1bn-users-faces-a-fight-for-its-existence"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
 
   - image_path: /assets/images/msnbc-midterm.png
     alt: "placeholder image 2"
@@ -54,9 +104,9 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/figaro-tiktok.jpeg
+  - image_path: /assets/images/lefigaro-tiktok.jpeg
     alt: "placeholder image 2"
-    title: "le Figaro"
+    title: "Le Figaro"
     excerpt: "Ukraine: les influenceurs, petits soldats de la guerre informationnelle"
     url: "https://www.lefigaro.fr/medias/ukraine-les-influenceurs-petits-soldats-de-la-guerre-informationnelle-20220320"
     btn_label: "Read More"
@@ -249,18 +299,22 @@ feature_row:
 
  TODO make the masterhead sticky
 --->
-
-Marc Faddoul is a transdisciplinary technologist, expert on recommender systems and algorithmic audit.<br><br>
-He carried out research on algorithmic systems in academia (UC Berkeley), big tech (Facebook AI) and start-up environments (Bloom, Jalgos).
-He went from building algorithms to analysing their impact on society, and now strives to defend the interests and digital rights of civil society.<br><br>
-He is part of experts committees for the French Digital Council (CNNum) and media regulator (ARCOM), and is [regularly called upon](#in-the-news)
+Marc Faddoul is a transdisciplinary technologist, expert on recommender systems and algorithmic audit. He is the director and co-founder of **[AI Forensics](https://aiforensics.org){:target="_blank"}**, a digital-rights non-profit which investigates opaque and influential algorithms.
+<br><br>
+He has testified about TikTok to [the French Senate](http://videos.senat.fr/video.3332178_640f214f9aa6b.marc-faddoul-decrypte-l-algorithme-de-tiktok){:target="_blank"}, and is part of experts committees for the Digital Council (CNNum) and media regulator (ARCOM). He is [regularly called upon](#in-the-news)
 to comment on AI and society by WSJ, The Guardian, Le Monde and more.
+<br><br>
+Marc gained experience in algorithmic auditing in academia (UC Berkeley), big tech (Facebook AI), and start-ups (Bloom, Jalgos).
 
 ---
 
-Currently **Director at AI Forensics**
+<!---
+
+
+**Director at AI Forensics**
 
 [AI Forensics](https://aiforensics.org){:target="_blank"} is a European non-profit organization defending digital rights through algorithmic investigations. (previously known as [Tracking Exposed](https://tracking.exposed){:target="_blank"})<br>
+
 
 ---
 
@@ -272,32 +326,25 @@ Currently **Director at AI Forensics**
 
 ---
 
-## Background
+--->
+
 
 
 ### Education
 
-**[UC Berkeley School of Information](https://www.ischool.berkeley.edu/){:target="_blank"} - Master of Science**<br>
+**[UC Berkeley School of Information](https://www.ischool.berkeley.edu/){:target="_blank"}** - Master of Science<br>
 Transdisciplinary perspectives on societal, legal and ethical impacts of technology on society. (MIMS program)
 
-**[Télécom Paris, Institut Polytechnique de Paris](https://www.telecom-paris.fr/en/home){:target="_blank"} - Diplome d'Ingénieur**<br>
+**[Télécom Paris, Institut Polytechnique de Paris](https://www.telecom-paris.fr/en/home){:target="_blank"}** - Diplome d'Ingénieur<br>
 Télécom is France's top Computer Science school. The engineering degree (undergrad + MS) captures a broad technical understanding of computational systems and networks.
 Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="_blank"}.
 
 
-### Affiliations
+### Professional
 
-- Mozilla Fellow, [Mozilla Technology Fund](https://foundation.mozilla.org/en/blog/a-new-way-to-keep-tiktok-accountable/){:target="_blank"} ([2022](https://foundation.mozilla.org/fr/blog/one-year-of-holding-tiktok-accountable/){:target="_blank"} & 2023)
-- Affiliated Scholar, [Tech Policy Lab](https://citrispolicylab.org/){:target="_blank"}, CITRIS and Banatao Institute (2020-)
-- [Algorithmic Fairness and Opacity research group](https://afog.berkeley.edu/){:target="_blank"}, School of Information, UC Berkeley (2018-)
-- Visiting Researcher, [Human Rights Center](https://humanrights.berkeley.edu){:target="_blank"}, UC Berkeley (2019-2021)
+**Co-Founder & Director - [AI Forensics](https://aiforensics.org)** (2021-): AI Forensics was co-founded with Claudio Agosti to continue and expand the activities of Tracking Exposed, project active in algorithmic auditing since 2016.
 
-
-### Professional Experiences
-
-**Co-Director - [Tracking Exposed](https://tracking.exposed/)** (2021-): Leading the development, strategy and funding of the organization.
-
-**Co-Founder & Director - [AI Forensics](https://aiforensics.org)** (2021-): AI Forensics is the non-profit organization supporting Tracking Exposed
+**Co-Director - [Tracking Exposed](https://tracking.exposed/)** (2021-2022): Leading the development, strategy and funding of the organization.
 
 **Associate Researcher - [UC Berkeley](https://www.ischool.berkeley.edu/){:target="_blank"}** (2019-2020): Development of novel algorithmic approaches to detect disinformation and borderline content, with Professor [Hany Farid](https://en.wikipedia.org/wiki/Hany_Farid){:target="_blank"}.
 
@@ -309,60 +356,39 @@ Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="
 
 **Freelance Developer** (2013-17): Several projects, involving discrete optimisation, resource allocation and web semantics.
 
+### Affiliations
 
-## Selected Projects and Investigations
+- Mozilla Fellow, [Mozilla Technology Fund](https://foundation.mozilla.org/en/blog/a-new-way-to-keep-tiktok-accountable/){:target="_blank"} ([2022](https://foundation.mozilla.org/fr/blog/one-year-of-holding-tiktok-accountable/){:target="_blank"} & 2023)
+- Affiliated Scholar, [Tech Policy Lab](https://citrispolicylab.org/){:target="_blank"}, CITRIS and Banatao Institute (2020-2022)
+- [Algorithmic Fairness and Opacity research group](https://afog.berkeley.edu/){:target="_blank"}, School of Information, UC Berkeley (2018-)
+- Visiting Researcher, [Human Rights Center](https://humanrights.berkeley.edu){:target="_blank"}, UC Berkeley (2019-2021)
 
-**Investigating TikTok's policy response to the Ukraine war in Russia**<br>
-We monitored the evolution of TikTok's policy in Russia as the war in Ukraine unfolded. We [uncovered](https://twitter.com/trackingexposed/status/1503734082840182788)
-that TikTok blocked access to international content for its Russian users without declaring it.
-In a [follow-up investigation](https://www.washingtonpost.com/technology/2022/04/13/tiktok-russia-censorship-propaganda-tracking-exposed/),
-we exposed how loopholes in TikTok's upload ban policy led the platform to be flooded by pro-Kremlin propaganda.
-Our report lead [6 US Senators to summon](https://www.scribd.com/document/578733258/FINAL-Letter-to-TikTok-Re-Ukraine-War-Russia-Disinformation-6-17-2022)
-TikTok's CEO for explanations.
 
-**YouChoose.ai: Alternative recommender systems for YouTube**<br>
-[YouChoose.ai](http://youchoose.ai){:target="_blank"} is plug-in enabling users and content creators to choose and control their recommendations on YouTube.com. The current release (beta) allows content creators to choose the recommendations on their own content.
-The long term goal for YouChoose is to be a platform for recommender systems, empowering users to pick an accountable algorithm, aligned with their own interests.
+## Selected News Featuring
 
-**An analysis of YouTube's promotion of conspiratorial content** <br>
-Lead author of an [audit](https://arxiv.org/abs/2003.03318){:target="_blank"} of YouTube's recommendation engine. 
-The study was published with [the New York Times](https://www.nytimes.com/interactive/2020/03/02/technology/youtube-conspiracy-theory.html){:target="_blank"}, 
-and was [cited](https://docs.house.gov/meetings/IF/IF16/20210325/111407/HHRG-117-IF16-20210325-SD027.pdf){:target="_blank"} by US Congress in a formal letter to the CEO's of Google and YouTube.
-Interviews featured in [le Monde](https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html){:target="_blank"} 
-and the [BBC](https://www.bbc.co.uk/sounds/play/w3csymts).<br>
-The analysis relied on a monitoring infrastructure paired with a machine learning classifier to detect conspiratorial content.
+{% include feature_row %}
 
-**Uncovering physiognomic filter-bubbles on TikTok**
-An experiment which showed how race and appearance impact recommendability on TikTok. 
-Featured in [BuzzFeed](https://www.buzzfeednews.com/article/laurenstrapagiel/tiktok-algorithim-racial-bias){:target="_blank"}, 
-[Vox](https://www.vox.com/recode/2020/2/25/21152585/tiktok-recommendations-profile-look-alike){:target="_blank"}, 
-[Wired UK](https://www.wired.co.uk/article/tiktok-filter-bubbles){:target="_blank"}, 
-[Forbes](https://www.forbes.com/sites/janicegassam/2020/04/14/does-tiktok-have-a-race-problem/#236b246a3260){:target="_blank"}... 
-
-**AlgoTransparency**
-[AlgoTransparency](https://algotransparency.org/){:target="_blank"} is aimed at monitoring the channels most promoted by YouTube's recommendation engine to logged-out users.
-
-**Investigating Sniper Ad Targeting**
-A [master thesis](http://www.ischool.berkeley.edu/projects/2019/sniper-ad-targeting){:target="_blank"} project investigating whether and how an malign ads can be tailored and sent to a single individual. 
-Advised by Professor [Deirdre Mulligan](https://www.ischool.berkeley.edu/people/deirdre-mulligan){:target="_blank"}. Introductory video [here](https://www.youtube.com/watch?v=bKdFlBHqhjI){:target="_blank"}.
-
-**Auditing a Judicial Algorithm**
-In depth-analysis of a Pretrial Risk-Assessment Tool used in the U.S to determine whether a defendant should be placed in detention before their trial. Research [presented](https://cssh.northeastern.edu/philosophy/our-recent-past-talks/){:target="_blank"} at the Information Ethics Roundtable at Northeastern University.
-
-**Cybersecurity Consulting**
-Consulting within the [Citizen Clinic](https://cltc.berkeley.edu/about-us/citizen-clinic/){:target="_blank"} 
-for a civil-rights NGO from central-America, to help them defend against cyber-threats and state-surveillance. 
 
 ## Talks & Lectures
 <!---
+FIC - International Cybersecurity Forum, Paris
+MozFest Panel info: Navigating the open-source algorithm audit tooling
 Senat
 ARCOM journée d'etudes
 EU Disinfo conference
 --->
 
+**French Senat** - Mar 23: *Testimony for the special commission on TikTok*
+
+**International Cybersecurity Forum (FIC)** - Apr 23: *Auditing TikTok's recommender system*
+
+**Mozilla Festival** - Mar 23: *Panel: Navigating the open-source algorithm audit tooling landscape*
+
+**EU Disinfo Lab conference** - September 2022: *Aversarial Algorithmic Audits*
+
 **ARCOM** - May 22: *Amplification and Demotion of election related content on social media*. Presentation of results to the French media regulator
 
-**Mozilla Festival** - Apr 22: Gain control back on your YouTube recommendations
+**Mozilla Festival** - Apr 22: *Gain control back on your YouTube recommendations*
 
 **Webminar with EU Members of Parliment** - Nov 21: *Alternative Recommender Systems in the DSA: how to protect free expression, create competition and empower users*
 
@@ -387,6 +413,48 @@ EU Disinfo conference
 
 **Northeastern University** - Spring 2019: [Information Ethics Roundtable](https://cssh.northeastern.edu/philosophy/our-recent-past-talks/){:target="_blank"}, paper presentation.
 
-## In the News
 
-{% include feature_row %}
+## Selected Projects and Investigations
+<!---
+French Elections
+--->
+**Investigating TikTok's policy response to the Ukraine war in Russia**<br>
+We monitored the evolution of TikTok's policy in Russia as the war in Ukraine unfolded. We [uncovered](https://twitter.com/trackingexposed/status/1503734082840182788)
+that TikTok blocked access to international content for its Russian users without declaring it.
+In a [follow-up investigation](https://www.washingtonpost.com/technology/2022/04/13/tiktok-russia-censorship-propaganda-tracking-exposed/),
+we exposed how loopholes in TikTok's upload ban policy led the platform to be flooded by pro-Kremlin propaganda.
+Our report lead [6 US Senators to summon](https://www.scribd.com/document/578733258/FINAL-Letter-to-TikTok-Re-Ukraine-War-Russia-Disinformation-6-17-2022)
+TikTok's CEO for explanations.
+
+**YouChoose.ai: Alternative recommender systems for YouTube**<br>
+[YouChoose.ai](http://youchoose.ai){:target="_blank"} is plug-in enabling users and content creators to choose and control their recommendations on YouTube.com. The current release (beta) allows content creators to choose the recommendations on their own content.
+The long term goal for YouChoose is to be a platform for recommender systems, empowering users to pick an accountable algorithm, aligned with their own interests.
+
+**An analysis of YouTube's promotion of conspiratorial content** <br>
+Lead author of an [audit](https://arxiv.org/abs/2003.03318){:target="_blank"} of YouTube's recommendation engine.
+The study was published with [the New York Times](https://www.nytimes.com/interactive/2020/03/02/technology/youtube-conspiracy-theory.html){:target="_blank"},
+and was [cited](https://docs.house.gov/meetings/IF/IF16/20210325/111407/HHRG-117-IF16-20210325-SD027.pdf){:target="_blank"} by US Congress in a formal letter to the CEO's of Google and YouTube.
+Interviews featured in [le Monde](https://www.lemonde.fr/pixels/article/2020/03/06/videos-complotistes-youtube-a-la-capacite-de-moderer-son-contenu-lorsqu-il-en-a-la-volonte-politique_6032050_4408996.html){:target="_blank"}
+and the [BBC](https://www.bbc.co.uk/sounds/play/w3csymts).<br>
+The analysis relied on a monitoring infrastructure paired with a machine learning classifier to detect conspiratorial content.
+
+**Uncovering physiognomic filter-bubbles on TikTok**
+An experiment which showed how race and appearance impact recommendability on TikTok.
+Featured in [BuzzFeed](https://www.buzzfeednews.com/article/laurenstrapagiel/tiktok-algorithim-racial-bias){:target="_blank"},
+[Vox](https://www.vox.com/recode/2020/2/25/21152585/tiktok-recommendations-profile-look-alike){:target="_blank"},
+[Wired UK](https://www.wired.co.uk/article/tiktok-filter-bubbles){:target="_blank"},
+[Forbes](https://www.forbes.com/sites/janicegassam/2020/04/14/does-tiktok-have-a-race-problem/#236b246a3260){:target="_blank"}...
+
+**AlgoTransparency**
+[AlgoTransparency](https://algotransparency.org/){:target="_blank"} is aimed at monitoring the channels most promoted by YouTube's recommendation engine to logged-out users.
+
+**Investigating Sniper Ad Targeting**
+A [master thesis](http://www.ischool.berkeley.edu/projects/2019/sniper-ad-targeting){:target="_blank"} project investigating whether and how an malign ads can be tailored and sent to a single individual.
+Advised by Professor [Deirdre Mulligan](https://www.ischool.berkeley.edu/people/deirdre-mulligan){:target="_blank"}. Introductory video [here](https://www.youtube.com/watch?v=bKdFlBHqhjI){:target="_blank"}.
+
+**Auditing a Judicial Algorithm**
+In depth-analysis of a Pretrial Risk-Assessment Tool used in the U.S to determine whether a defendant should be placed in detention before their trial. Research [presented](https://cssh.northeastern.edu/philosophy/our-recent-past-talks/){:target="_blank"} at the Information Ethics Roundtable at Northeastern University.
+
+**Cybersecurity Consulting**
+Consulting within the [Citizen Clinic](https://cltc.berkeley.edu/about-us/citizen-clinic/){:target="_blank"}
+for a civil-rights NGO from central-America, to help them defend against cyber-threats and state-surveillance.

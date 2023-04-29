@@ -1,14 +1,13 @@
 main:
   - title: "Background"
-    url: index.html#background
+    url: index.html#education
 
-  - title: "Projects"
-    url: index.html#selected-projects-and-investigations
-    description: "Research & Projects"
+  - title: "In the News"
+    url: index.html#selected-news-featuring
 
   - title: "Talks"
     url: index.html#talks--lectures
 
-  - title: "In the News"
-    url: index.html#in-the-news
-
+  - title: "Projects"
+    url: index.html#selected-projects-and-investigations
+    description: "Research & Projects"
