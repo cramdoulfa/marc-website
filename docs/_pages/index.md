@@ -299,12 +299,17 @@ feature_row:
 
  TODO make the masterhead sticky
 --->
-Marc Faddoul is a transdisciplinary technologist, expert on recommender systems and algorithmic audit. He is the director and co-founder of **[AI Forensics](https://aiforensics.org){:target="_blank"}**, a digital-rights non-profit which investigates opaque and influential algorithms.
+Marc Faddoul is a transdisciplinary technologist, expert on recommender systems and algorithmic audit.
 <br><br>
-He has testified about TikTok to [the French Senate](http://videos.senat.fr/video.3332178_640f214f9aa6b.marc-faddoul-decrypte-l-algorithme-de-tiktok){:target="_blank"}, and is part of experts committees for the Digital Council (CNNum) and media regulator (ARCOM). He is [regularly called upon](#in-the-news)
-to comment on AI and society by WSJ, The Guardian, Le Monde and more.
+He is the director and co-founder of **[AI Forensics](https://aiforensics.org){:target="_blank"}**, a digital-rights non-profit which investigates opaque and influential algorithms.
 <br><br>
-Marc gained experience in algorithmic auditing in academia (UC Berkeley), big tech (Facebook AI), and start-ups (Bloom, Jalgos).
+He regularly advises the European Commission and French Government with a technical perspective on AI ethics and platform regulation,
+including though expert committes of the Digital Council (CNNum), media regulator (ARCOM), and [the French General States on Information](https://etats-generaux-information.fr/actualites/nomination-des-membres-des-cinq-groupes-de-travail).
+He also testified about TikTok to [the French Senate](http://videos.senat.fr/video.3332178_640f214f9aa6b.marc-faddoul-decrypte-l-algorithme-de-tiktok){:target="_blank"}.
+<br><br>
+Marc Faddoul is [often called upon](#in-the-news) to comment on AI and society by WSJ, The Guardian, Le Monde and more.
+<br><br>
+He gained experience in algorithmic auditing in academia (UC Berkeley), big tech (research collaboration with Facebook AI), and start-ups (Bloom, Jalgos).
 
 ---
 
@@ -342,7 +347,7 @@ Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="
 
 ### Professional
 
-**Co-Founder & Director - [AI Forensics](https://aiforensics.org)** (2021-): AI Forensics was co-founded with Claudio Agosti to continue and expand the activities of Tracking Exposed, project active in algorithmic auditing since 2016.
+**Co-Founder & Director - [AI Forensics](https://aiforensics.org)** (2021-): AI Forensics was co-founded with Claudio Agosti to continue and expand the activities of [Tracking Exposed](https://tracking.exposed/).
 
 **Co-Director - [Tracking Exposed](https://tracking.exposed/)** (2021-2022): Leading the development, strategy and funding of the organization.
 
