@@ -45,7 +45,7 @@ classes:
 
 feature_row:
 
-  - image_path: /assets/images/senat.jpeg
+  - image_path: /assets/images/cnnum.png
 
     alt: "placeholder image 2"
     title: "Conseil National du Numérique"
@@ -415,7 +415,7 @@ Nobel Prize Brussels
 Digital Literacy Expert Group
 --->
 
-**1st Grand Continent Summit** - Dec 23: [Panel](https://legrandcontinent.eu/fr/2024/01/26/limpact-economique-et-social-de-lia-une-conversation-avec-martin-tisne-anu-bradford-anne-bouverot-gabriela-ramos-marc-faddoul-et-brando-benifei/){:target="_blank"} *Social and Economic impact of AI*, audience of heads of governments and EU institutions, and key executives and decision makers.
+**Grand Continent Summit** - Dec 23: [Panel](https://legrandcontinent.eu/fr/2024/01/26/limpact-economique-et-social-de-lia-une-conversation-avec-martin-tisne-anu-bradford-anne-bouverot-gabriela-ramos-marc-faddoul-et-brando-benifei/){:target="_blank"} *Social and Economic impact of AI*, audience of heads of governments and EU institutions, and key executives and decision makers.
 
 **EU Disinfo conference** - Oct 23: [Keynote speaker:](https://www.disinfo.eu/wp-content/uploads/2023/11/Disinfo2023-conference-dossier.pdf){:target="_blank"} *TikTok. Who’s there?*
 
