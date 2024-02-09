@@ -303,7 +303,8 @@ Marc Faddoul is a transdisciplinary technologist, expert on recommender systems 
 <br><br>
 He is the director and co-founder of **[AI Forensics](https://aiforensics.org){:target="_blank"}**, a digital-rights non-profit which investigates opaque and influential algorithms.
 <br><br>
-He regularly advises the European Commission and French Government with a technical perspective on AI ethics and platform regulation, including though expert committes of the Digital Council (CNNum), media regulator (ARCOM), and [the French General States on Information](https://etats-generaux-information.fr/actualites/nomination-des-membres-des-cinq-groupes-de-travail).
+He regularly advises the European Commission and French Government with a technical perspective on AI ethics and platform regulation,
+including though expert committes of the Digital Council (CNNum), media regulator (ARCOM), and [the French General States on Information](https://etats-generaux-information.fr/actualites/nomination-des-membres-des-cinq-groupes-de-travail){:target="_blank"}.
 He also testified about TikTok to [the French Senate](http://videos.senat.fr/video.3332178_640f214f9aa6b.marc-faddoul-decrypte-l-algorithme-de-tiktok){:target="_blank"}.
 <br><br>
 Marc Faddoul is [often called upon](#in-the-news) to comment on AI and society by WSJ, The Guardian, Le Monde and more.
@@ -346,7 +347,7 @@ Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="
 
 ### Professional
 
-**Co-Founder & Director - [AI Forensics](https://aiforensics.org)** (2021-): AI Forensics was co-founded with Claudio Agosti to continue and expand the activities of [Tracking Exposed](https://tracking.exposed/).
+**Co-Founder & Director - [AI Forensics](https://aiforensics.org)** (2021-): AI Forensics is a non profit specialized in algorithmic investigation. It was co-founded with Claudio Agosti, expanding the activities of Tracking Exposed.
 
 **Co-Director - [Tracking Exposed](https://tracking.exposed/)** (2021-2022): Leading the development, strategy and funding of the organization.
 
@@ -364,7 +365,7 @@ Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="
 
 - Mozilla Fellow, [Mozilla Technology Fund](https://foundation.mozilla.org/en/blog/a-new-way-to-keep-tiktok-accountable/){:target="_blank"} ([2022](https://foundation.mozilla.org/fr/blog/one-year-of-holding-tiktok-accountable/){:target="_blank"} & 2023)
 - Affiliated Scholar, [Tech Policy Lab](https://citrispolicylab.org/){:target="_blank"}, CITRIS and Banatao Institute (2020-2022)
-- [Algorithmic Fairness and Opacity research group](https://afog.berkeley.edu/){:target="_blank"}, School of Information, UC Berkeley (2018-)
+- [Algorithmic Fairness and Opacity research group](https://afog.berkeley.edu/){:target="_blank"}, School of Information, UC Berkeley (2018-2021)
 - Visiting Researcher, [Human Rights Center](https://humanrights.berkeley.edu){:target="_blank"}, UC Berkeley (2019-2021)
 
 
@@ -379,8 +380,13 @@ FIC - International Cybersecurity Forum, Paris
 MozFest Panel info: Navigating the open-source algorithm audit tooling
 Senat
 ARCOM journée d'etudes
-EU Disinfo conference
+EU Disinfo conference 2023
+
+Nordic Media Days
+
 --->
+
+**Grand Continent Summit** - Dec 23: *[Social and Economic impact of AI](https://legrandcontinent.eu/fr/2024/01/26/limpact-economique-et-social-de-lia-une-conversation-avec-martin-tisne-anu-bradford-anne-bouverot-gabriela-ramos-marc-faddoul-et-brando-benifei/){:target="_blank"}*, audience of heads of governments and EU institutions, top-level business executives and key decision makers.
 
 **French Senat** - Mar 23: *Testimony for the special commission on TikTok*
 
