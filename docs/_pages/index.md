@@ -45,7 +45,7 @@ classes:
 
 feature_row:
 
-  - image_path: /assets/images/cnnum.png
+  - image_path: /assets/images/cnnum.jpeg
 
     alt: "placeholder image 2"
     title: "Conseil National du Numérique"
