@@ -48,6 +48,15 @@ feature_row:
   - image_path: /assets/images/cnnum.png
 
     alt: "placeholder image 2"
+    title: "Conseil National du Numérique"
+    excerpt: "Comment on platform regulation recommendations"
+    url: "https://hubtr.lettres-infos.bercy.gouv.fr/mirror201/1377/1462?k=afc1a97ab2d2b44fafde5ef996a67078"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+- image_path: /assets/images/cnnum.png
+
+    alt: "placeholder image 2"
     title: "BFM TV"
     excerpt: "Live debate on Facebook's 20th anniversary"
     url: "https://www.bfmtv.com/replay-emissions/le-live-bfm/facebook-20-ans-et-deja-ringard-04-02_VN-202402040212.html"
@@ -58,9 +67,18 @@ feature_row:
   - image_path: /assets/images/cnnum.png
 
     alt: "placeholder image 2"
-    title: "Conseil National du Numérique"
-    excerpt: "Comment on platform regulation recommendations"
-    url: "https://hubtr.lettres-infos.bercy.gouv.fr/mirror201/1377/1462?k=afc1a97ab2d2b44fafde5ef996a67078"
+    title: "Washington Post"
+    excerpt: "Live debate on Facebook's 20th anniversary"
+    url: "https://www.bfmtv.com/replay-emissions/le-live-bfm/facebook-20-ans-et-deja-ringard-04-02_VN-202402040212.html"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/cnnum.png
+
+    alt: "placeholder image 2"
+    title: "Le Monde"
+    excerpt: "Live debate on Facebook's 20th anniversary"
+    url: "https://www.bfmtv.com/replay-emissions/le-live-bfm/facebook-20-ans-et-deja-ringard-04-02_VN-202402040212.html"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
