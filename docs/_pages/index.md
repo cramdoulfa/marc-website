@@ -77,8 +77,8 @@ feature_row:
 
     alt: "placeholder image 2"
     title: "Le Monde"
-    excerpt: "Live debate on Facebook's 20th anniversary"
-    url: "https://www.bfmtv.com/replay-emissions/le-live-bfm/facebook-20-ans-et-deja-ringard-04-02_VN-202402040212.html"
+    excerpt: "AI Forensics report on Amazon's bookstore algorithms"
+    url: "https://www.lemonde.fr/pixels/article/2023/12/11/dans-la-librairie-d-amazon-les-algorithmes-faconnent-les-ventes-mais-aussi-le-discours-public_6205183_4408996.html"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
@@ -415,7 +415,7 @@ Nobel Prize Brussels
 Digital Literacy Expert Group
 --->
 
-**Grand Continent Summit** - Dec 23: [Panel](https://legrandcontinent.eu/fr/2024/01/26/limpact-economique-et-social-de-lia-une-conversation-avec-martin-tisne-anu-bradford-anne-bouverot-gabriela-ramos-marc-faddoul-et-brando-benifei/){:target="_blank"} *Social and Economic impact of AI*, audience of heads of governments and EU institutions, and key executives and decision makers.
+**1st Grand Continent Summit** - Dec 23: [Panel](https://legrandcontinent.eu/fr/2024/01/26/limpact-economique-et-social-de-lia-une-conversation-avec-martin-tisne-anu-bradford-anne-bouverot-gabriela-ramos-marc-faddoul-et-brando-benifei/){:target="_blank"} *Social and Economic impact of AI*, audience of heads of governments and EU institutions, and key executives and decision makers.
 
 **EU Disinfo conference** - Oct 23: [Keynote speaker:](https://www.disinfo.eu/wp-content/uploads/2023/11/Disinfo2023-conference-dossier.pdf){:target="_blank"} *TikTok. Who’s there?*
 
