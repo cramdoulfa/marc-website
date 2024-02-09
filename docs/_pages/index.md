@@ -43,9 +43,23 @@ classes:
 # overlay_filter: 0.5
 # show_overlay_excerpt: true
 
- 
+<!---
+Le Monde Amazon
+WaPo Bing
+BFM
+French Digital Council
+--->
+
 feature_row:
 
+  - image_path: /assets/images/cnnum.png
+
+    alt: "placeholder image 2"
+    title: "Conseil National du Numérique"
+    excerpt: "Marc Faddoul's testimony on the special commission on TikTok"
+    url: "https://hubtr.lettres-infos.bercy.gouv.fr/mirror201/1377/1462?k=afc1a97ab2d2b44fafde5ef996a67078"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 
   - image_path: /assets/images/senat.jpeg
     alt: "placeholder image 2"
@@ -426,6 +440,9 @@ Digital Literacy Expert Group
 <!---
 French Elections
 --->
+
+See [our work at AI Forensics](https://aiforensics.org/work){:target="_blank"} for more recent projects.
+
 **Investigating TikTok's policy response to the Ukraine war in Russia**<br>
 We monitored the evolution of TikTok's policy in Russia as the war in Ukraine unfolded. We [uncovered](https://twitter.com/trackingexposed/status/1503734082840182788)
 that TikTok blocked access to international content for its Russian users without declaring it.
