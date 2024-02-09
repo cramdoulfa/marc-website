@@ -376,18 +376,15 @@ Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="
 
 ## Talks & Lectures
 <!---
-FIC - International Cybersecurity Forum, Paris
-MozFest Panel info: Navigating the open-source algorithm audit tooling
-Senat
-ARCOM journée d'etudes
-EU Disinfo conference 2023
+Nobel Prize Brussels
+Digital Literacy Expert Group
 --->
 
-**Grand Continent Summit** - Dec 23: *[Social and Economic impact of AI](https://legrandcontinent.eu/fr/2024/01/26/limpact-economique-et-social-de-lia-une-conversation-avec-martin-tisne-anu-bradford-anne-bouverot-gabriela-ramos-marc-faddoul-et-brando-benifei/){:target="_blank"}*, audience of heads of governments and EU institutions, and key executives and decision makers.
+**Grand Continent Summit** - Dec 23: [Panel](https://legrandcontinent.eu/fr/2024/01/26/limpact-economique-et-social-de-lia-une-conversation-avec-martin-tisne-anu-bradford-anne-bouverot-gabriela-ramos-marc-faddoul-et-brando-benifei/){:target="_blank"} *Social and Economic impact of AI*, audience of heads of governments and EU institutions, and key executives and decision makers.
 
-**EU Disinfo conference 2023** - Oct 23: [Keynote speaker:](https://www.disinfo.eu/wp-content/uploads/2023/11/Disinfo2023-conference-dossier.pdf){:target="_blank"}* TikTok. Who’s there?*
+**EU Disinfo conference 2023** - Oct 23: [Keynote speaker:](https://www.disinfo.eu/wp-content/uploads/2023/11/Disinfo2023-conference-dossier.pdf){:target="_blank"} *TikTok. Who’s there?*
 
-**Nordic Media Days** - May 23: [Keynote speaker:](https://nordiskemediedager.no/en/sessions/ai-forensics-hva-gjor-vi-nar-algoritmene-styrer-verden){:target="_blank"}* What to do when algorithms rule the world?*
+**Nordic Media Days** - May 23: [Keynote speaker:](https://nordiskemediedager.no/en/sessions/ai-forensics-hva-gjor-vi-nar-algoritmene-styrer-verden){:target="_blank"} *What to do when algorithms rule the world?*
 
 **French Senat** - Mar 23: *Testimony for the special commission on TikTok*
 
