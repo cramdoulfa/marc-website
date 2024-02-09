@@ -45,7 +45,7 @@ classes:
 
 feature_row:
 
-  - image_path: /assets/images/cnnum.png
+  - image_path: /assets/images/senat.jpeg
 
     alt: "placeholder image 2"
     title: "Conseil National du Numérique"
@@ -54,7 +54,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-- image_path: /assets/images/cnnum.png
+- image_path: /assets/images/senat.jpeg
 
     alt: "placeholder image 2"
     title: "BFM TV"
@@ -64,16 +64,16 @@ feature_row:
     btn_class: "btn--inverse"
 
 
-  - image_path: /assets/images/cnnum.png
+  - image_path: /assets/images/senat.jpeg
 
     alt: "placeholder image 2"
     title: "Washington Post"
-    excerpt: "Live debate on Facebook's 20th anniversary"
-    url: "https://www.bfmtv.com/replay-emissions/le-live-bfm/facebook-20-ans-et-deja-ringard-04-02_VN-202402040212.html"
+    excerpt: "Feature of AI Forensics' report on BingChat electoral hallucinations"
+    url: "https://www.washingtonpost.com/technology/2023/12/15/microsoft-copilot-bing-ai-hallucinations-elections/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/cnnum.png
+  - image_path: /assets/images/senat.jpeg
 
     alt: "placeholder image 2"
     title: "Le Monde"
