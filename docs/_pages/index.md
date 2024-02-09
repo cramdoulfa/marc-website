@@ -54,7 +54,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-- image_path: /assets/images/senat.jpeg
+  - image_path: /assets/images/senat.jpeg
 
     alt: "placeholder image 2"
     title: "BFM TV"
