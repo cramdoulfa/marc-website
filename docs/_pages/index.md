@@ -54,7 +54,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/senat.jpeg
+  - image_path: /assets/images/bfm-fb.jpeg
 
     alt: "placeholder image 2"
     title: "BFM TV"
@@ -64,7 +64,7 @@ feature_row:
     btn_class: "btn--inverse"
 
 
-  - image_path: /assets/images/senat.jpeg
+  - image_path: /assets/images/bingchat-aif.jpeg
 
     alt: "placeholder image 2"
     title: "Washington Post"
@@ -73,7 +73,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/senat.jpeg
+  - image_path: /assets/images/amazon-lemonde.jpeg
 
     alt: "placeholder image 2"
     title: "Le Monde"
