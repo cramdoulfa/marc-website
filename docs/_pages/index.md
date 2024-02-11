@@ -334,7 +334,7 @@ feature_row:
 
  TODO make the masterhead sticky
 --->
-Marc Faddoul is a transdisciplinary technologist, expert on recommender systems and algorithmic audit.
+Marc Faddoul is a transdisciplinary technologist and AI researcher, expert on recommendation systems and algorithmic audit.
 <br><br>
 He is the director and co-founder of **[AI Forensics](https://aiforensics.org){:target="_blank"}**, a digital-rights non-profit which investigates opaque and influential algorithms.
 <br><br>
