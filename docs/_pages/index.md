@@ -45,6 +45,14 @@ classes:
 
 feature_row:
 
+  - image_path: /assets/images/JT-france2.jpeg
+    alt: "placeholder image 2"
+    title: "France 2"
+    excerpt: "Dangerous TikTok challenges on national news"
+    url: "https://www.francetvinfo.fr/replay-jt/france-2/13-heures/jt-de-13h-du-dimanche-21-avril-2024_6463910.html"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
   - image_path: /assets/images/cnnum.jpeg
 
     alt: "placeholder image 2"
@@ -411,8 +419,15 @@ Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="
 
 ## Talks & Lectures
 <!---
-Nobel Prize Brussels
+EU parliament
+Nobel Prize Roundtable Brussels
 Digital Literacy Expert Group
+DSA Stakeholder event June + video
+Code of Practice plenary
+United Nations Human Rights event on AI and human rights: https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/summary-note-bxl-event-gni-b-tech-october-2023.pdf
+
+News:
+https://www.lesechos.fr/tech-medias/intelligence-artificielle/ia-en-immersion-avec-les-robots-journalistes-2083097#:~:text=La%20d%C3%A9ferlante%20de%20l%27intelligence,fait%20courir%20%C3%A0%20leur%20cr%C3%A9dibilit%C3%A9
 --->
 
 **Grand Continent Summit** - Dec 23: [Panel](https://legrandcontinent.eu/fr/2024/01/26/limpact-economique-et-social-de-lia-une-conversation-avec-martin-tisne-anu-bradford-anne-bouverot-gabriela-ramos-marc-faddoul-et-brando-benifei/){:target="_blank"} *Social and Economic impact of AI*, audience of heads of governments and EU institutions, and key executives and decision makers.
