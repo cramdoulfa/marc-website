@@ -45,6 +45,14 @@ classes:
 
 feature_row:
 
+  - image_path: /assets/images/politico-meta-ads-aif.jpeg
+    alt: "placeholder image 2"
+    title: "Politico"
+    excerpt: "AI Forensics report: political ads on Meta"
+    url: "https://www.politico.eu/article/russia-influence-hackers-social-media-facebok-operation-thriving/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
   - image_path: /assets/images/JT-france2.jpeg
     alt: "placeholder image 2"
     title: "France 2"
@@ -56,8 +64,8 @@ feature_row:
   - image_path: /assets/images/cnnum.jpeg
 
     alt: "placeholder image 2"
-    title: "French Digital Council"
-    excerpt: "Comment on platform regulation recommendations"
+    title: "CNNum"
+    excerpt: "Comment on French Digital Council newsletter"
     url: "https://hubtr.lettres-infos.bercy.gouv.fr/mirror201/1377/1462?k=afc1a97ab2d2b44fafde5ef996a67078"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -72,16 +80,16 @@ feature_row:
     btn_class: "btn--inverse"
 
 
-  - image_path: /assets/images/bingchat-aif.jpeg
+  - image_path: /assets/images/wapo-bingchat-aif.jpeg
 
     alt: "placeholder image 2"
     title: "Washington Post"
-    excerpt: "Feature of AI Forensics' report on BingChat electoral hallucinations"
+    excerpt: "AI Forensics report: Microsoft Copilot election errors"
     url: "https://www.washingtonpost.com/technology/2023/12/15/microsoft-copilot-bing-ai-hallucinations-elections/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/amazon-lemonde.jpeg
+  - image_path: /assets/images/lemonde-amazon-aif.jpeg
 
     alt: "placeholder image 2"
     title: "Le Monde"
