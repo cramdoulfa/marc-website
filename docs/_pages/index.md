@@ -444,9 +444,9 @@ La fabrique du mensonge https://www.francetvpro.fr/contenu-de-presse/62656211
 
 **DSA Stakeholder Event** - [Panel (video):](https://youtu.be/3ruDVtlPF8w?t=2124){:target="_blank"} *Conducting DSA risk assessments - algorithms in the spotlight!*
 
-**Grand Continent Summit** - Dec 23: [Panel](https://legrandcontinent.eu/fr/2024/01/26/limpact-economique-et-social-de-lia-une-conversation-avec-martin-tisne-anu-bradford-anne-bouverot-gabriela-ramos-marc-faddoul-et-brando-benifei/){:target="_blank"} *Social and Economic impact of AI*, audience of heads of governments and EU institutions, and key executives and decision makers.
+**Grand Continent Summit** - Dec 23: [Panel:](https://legrandcontinent.eu/fr/2024/01/26/limpact-economique-et-social-de-lia-une-conversation-avec-martin-tisne-anu-bradford-anne-bouverot-gabriela-ramos-marc-faddoul-et-brando-benifei/){:target="_blank"} *Social and Economic impact of AI*
 
-**United Nations B-Tech** - Oct 23:[Workshop:](https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/summary-note-bxl-event-gni-b-tech-october-2023.pdf){:target="_blank"} *1
+**United Nations B-Tech** - Oct 23: [Workshop:](https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/summary-note-bxl-event-gni-b-tech-october-2023.pdf){:target="_blank"} *1
 AI, Human Rights, and the Evolving Regulatory Environment*
 
 **EU Disinfo Lab Conference** - Oct 23: [Keynote:](https://www.disinfo.eu/wp-content/uploads/2023/11/Disinfo2023-conference-dossier.pdf){:target="_blank"} *TikTok. Who’s there?*
