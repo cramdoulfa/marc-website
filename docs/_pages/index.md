@@ -425,26 +425,37 @@ Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="
 {% include feature_row %}
 
 
-## Talks & Lectures
+## Public Interventions
 <!---
-EU parliament
-Nobel Prize Roundtable Brussels
-Digital Literacy Expert Group
-DSA Stakeholder event June + video
-Code of Practice plenary
-United Nations Human Rights event on AI and human rights: https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/summary-note-bxl-event-gni-b-tech-october-2023.pdf
 
 News:
 https://www.lesechos.fr/tech-medias/intelligence-artificielle/ia-en-immersion-avec-les-robots-journalistes-2083097#:~:text=La%20d%C3%A9ferlante%20de%20l%27intelligence,fait%20courir%20%C3%A0%20leur%20cr%C3%A9dibilit%C3%A9
+La fabrique du mensonge https://www.francetvpro.fr/contenu-de-presse/62656211
+
 --->
+
+**EDMO Annual Conference** - May 24: [Panel:](https://edmo.eu/event/2024-edmo-annual-conference/#programme){:target="_blank"} *AI as a contributor to disinformation*
+
+**European Parliament** - Mar 24: [Audition:](https://www.youtube.com/watch?v=MConVxkRBM4&t=1400s){:target="_blank"} *Protecting the 2024 Elections: Tackling Disinformation and Polarisation*
+
+**Nobel Prize Dialogue** - Mar 24: [Roundtable:](https://www.nobelprize.org/events/nobel-prize-dialogue/brussels2024/){:target="_blank"} *Fact & Fiction: The Future of Democracy*
+
+**EU Commission** - Feb 24: [Keynote:](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&do=groupDetail.groupDetail&groupID=2541){:target="_blank"} *AI literacy to protect elections*
+
+**DSA Stakeholder Event** - [Video:](https://youtu.be/3ruDVtlPF8w?t=2124){:target="_blank"} *Conducting DSA risk assessments - algorithms in the spotlight!*
 
 **Grand Continent Summit** - Dec 23: [Panel](https://legrandcontinent.eu/fr/2024/01/26/limpact-economique-et-social-de-lia-une-conversation-avec-martin-tisne-anu-bradford-anne-bouverot-gabriela-ramos-marc-faddoul-et-brando-benifei/){:target="_blank"} *Social and Economic impact of AI*, audience of heads of governments and EU institutions, and key executives and decision makers.
 
+**United Nations B-Tech** - Oct 23:[Workshop:](https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/summary-note-bxl-event-gni-b-tech-october-2023.pdf){:target="_blank"} *1
+AI, Human Rights, and the Evolving Regulatory Environment*
+
 **EU Disinfo conference** - Oct 23: [Keynote speaker:](https://www.disinfo.eu/wp-content/uploads/2023/11/Disinfo2023-conference-dossier.pdf){:target="_blank"} *TikTok. Who’s there?*
+
+**EU Commission** - Jun 23: [Plenary]:(https://digital-strategy.ec.europa.eu/en/news/strengthened-code-practice-disinformation-signatories-identify-ways-step-work-one-year-after-launch){:target="_blank"} *Code of Practice on Disinformation*
 
 **Nordic Media Days** - May 23: [Keynote speaker:](https://nordiskemediedager.no/en/sessions/ai-forensics-hva-gjor-vi-nar-algoritmene-styrer-verden){:target="_blank"} *What to do when algorithms rule the world?*
 
-**French Senat** - Mar 23: *Testimony for the special commission on TikTok*
+**French Senat** - Mar 23: [Audition:](https://videos.senat.fr/video.3332178_640f214f9aa6b.marc-faddoul-decrypte-l-algorithme-de-tiktok){:target="_blank"} *Special Commission on TikTok*
 
 **International Cybersecurity Forum (FIC)** - Apr 23: *Auditing TikTok's recommender system*
 
