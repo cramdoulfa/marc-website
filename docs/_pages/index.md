@@ -356,7 +356,7 @@ He is the director and co-founder of **[AI Forensics](https://aiforensics.org){:
 <br><br>
 He regularly advises regulators with technical perspectives on AI ethics and platform accountability,
 including though expert committees of the EU Commission, the Digital Council (CNNum) and media regulator (ARCOM), and [the French General States on Information](https://etats-generaux-information.fr/actualites/nomination-des-membres-des-cinq-groupes-de-travail){:target="_blank"}.
-He also testified about TikTok to [the French Senate](http://videos.senat.fr/video.3332178_640f214f9aa6b.marc-faddoul-decrypte-l-algorithme-de-tiktok){:target="_blank"}.
+He also testified about TikTok to [the French Senate](http://videos.senat.fr/video.3332178_640f214f9aa6b.marc-faddoul-decrypte-l-algorithme-de-tiktok){:target="_blank"} and [European Parliament](https://www.youtube.com/watch?v=MConVxkRBM4&t=1400s){:target="_blank"}.
 <br><br>
 Marc Faddoul is [often called upon](#in-the-news) to comment on AI and society by WSJ, The Guardian, Le Monde and more.
 <br><br>
@@ -389,7 +389,7 @@ He gained experience in algorithmic auditing in academia (UC Berkeley), big tech
 ### Education
 
 **[UC Berkeley School of Information](https://www.ischool.berkeley.edu/){:target="_blank"}** - Master of Science<br>
-Transdisciplinary perspectives on societal, legal and ethical impacts of technology on society. (MIMS program)
+[MIMS:](https://www.ischool.berkeley.edu/programs/mims){:target="_blank"} Transdisciplinary program on societal, legal and ethical impacts of technology on society.
 
 **[Télécom Paris, Institut Polytechnique de Paris](https://www.telecom-paris.fr/en/home){:target="_blank"}** - Diplome d'Ingénieur<br>
 Télécom is France's top Computer Science school. The engineering degree (undergrad + MS) covers a wide technical scope on computational systems and networks.
