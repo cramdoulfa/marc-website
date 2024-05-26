@@ -356,7 +356,7 @@ He is the director and co-founder of **[AI Forensics](https://aiforensics.org){:
 <br><br>
 He regularly advises regulators with technical perspectives on AI ethics and platform accountability,
 including though expert committees of the EU Commission, the Digital Council (CNNum) and media regulator (ARCOM), and [the French General States on Information](https://etats-generaux-information.fr/actualites/nomination-des-membres-des-cinq-groupes-de-travail){:target="_blank"}.
-He also testified about TikTok to [the French Senate](http://videos.senat.fr/video.3332178_640f214f9aa6b.marc-faddoul-decrypte-l-algorithme-de-tiktok){:target="_blank"} and [European Parliament](https://www.youtube.com/watch?v=MConVxkRBM4&t=1400s){:target="_blank"}.
+He also testified to [the French Senate](http://videos.senat.fr/video.3332178_640f214f9aa6b.marc-faddoul-decrypte-l-algorithme-de-tiktok){:target="_blank"} and [European Parliament](https://www.youtube.com/watch?v=MConVxkRBM4&t=1400s){:target="_blank"}.
 <br><br>
 Marc Faddoul is [often called upon](#in-the-news) to comment on AI and society by WSJ, The Guardian, Le Monde and more.
 <br><br>
