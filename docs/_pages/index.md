@@ -436,6 +436,8 @@ La fabrique du mensonge https://www.francetvpro.fr/contenu-de-presse/62656211
 
 **EDMO Annual Conference** - May 24: [Panel:](https://edmo.eu/event/2024-edmo-annual-conference/#programme){:target="_blank"} *AI as a contributor to disinformation*
 
+**EU-US Technology Trade Council** - Apr 24: [Expert working group:](https://digital-strategy.ec.europa.eu/en/library/us-eu-trade-and-technology-council-ttc-joint-principles-combatting-gender-based-violence-digital){:target="_blank"} *Data access and technology mediated gender-based violence*
+
 **European Parliament** - Mar 24: [Audition (video):](https://www.youtube.com/watch?v=MConVxkRBM4&t=1400s){:target="_blank"} *Protecting the 2024 Elections: Tackling Disinformation and Polarisation*
 
 **Nobel Prize Dialogue** - Mar 24: [Roundtable:](https://www.nobelprize.org/events/nobel-prize-dialogue/brussels2024/){:target="_blank"} *Fact & Fiction: The Future of Democracy*
