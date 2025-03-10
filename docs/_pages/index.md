@@ -353,6 +353,9 @@ feature_row:
 Marc Faddoul is a transdisciplinary technologist and AI researcher, expert on recommendation systems and algorithmic audit.
 <br><br>
 He is the director and co-founder of **[AI Forensics](https://aiforensics.org){:target="_blank"}**, a digital-rights non-profit which investigates opaque and influential algorithms.
+
+AI Forensics was established to address a critical gap in civil society: providing technical expertise and evidence gathering capabilities for algorithmic auditing. They are now established as the leading European actor.
+Through high-profile, data-driven investigations, they have repeatedly driven tangible impact in platform behavior and regulation enforcement.
 <br><br>
 He regularly advises regulators with technical perspectives on AI ethics and platform accountability,
 including though expert committees of the EU Commission, the Digital Council (CNNum) and media regulator (ARCOM), and [the French General States on Information](https://etats-generaux-information.fr/actualites/nomination-des-membres-des-cinq-groupes-de-travail){:target="_blank"}.
@@ -431,6 +434,8 @@ Double-degree MS in Data Science at [Eurecom](https://www.eurecom.fr/){:target="
 News:
 https://www.lesechos.fr/tech-medias/intelligence-artificielle/ia-en-immersion-avec-les-robots-journalistes-2083097#:~:text=La%20d%C3%A9ferlante%20de%20l%27intelligence,fait%20courir%20%C3%A0%20leur%20cr%C3%A9dibilit%C3%A9
 La fabrique du mensonge https://www.francetvpro.fr/contenu-de-presse/62656211
+
+Stakeholder Advisory Group (SAG) of Forum of Information and Democracy
 
 --->
 
