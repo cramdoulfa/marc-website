@@ -10,6 +10,9 @@ author:
   bio: "Director, AI Forensics<br><br>Striving to make technology more socially aware."
   location: "France"
   links:
+    - label: "Bluesky"
+      icon: "fab fa-brands fa-square-bluesky"
+      url: "https://bsky.app/profile/marcfaddoul.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MarcFaddoul"
